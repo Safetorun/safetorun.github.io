@@ -6,7 +6,7 @@
   "source": "@site/docs/checks/gettingstarted.mdx",
   "sourceDirName": "checks",
   "slug": "/gettingstarted",
-  "permalink": "/safe_to_run/docs/gettingstarted",
+  "permalink": "/docs/gettingstarted",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/checks/gettingstarted.mdx",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Why Safe to Run?",
-    "permalink": "/safe_to_run/docs/"
+    "permalink": "/docs/"
   },
   "next": {
     "title": "Combine checks",
-    "permalink": "/safe_to_run/docs/combinechecks"
+    "permalink": "/docs/combinechecks"
   }
 }

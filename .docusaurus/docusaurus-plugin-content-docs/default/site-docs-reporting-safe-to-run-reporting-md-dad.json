@@ -6,7 +6,7 @@
   "source": "@site/docs/reporting/safe_to_run_reporting.md",
   "sourceDirName": "reporting",
   "slug": "/safetorunreporting",
-  "permalink": "/safe_to_run/docs/safetorunreporting",
+  "permalink": "/docs/safetorunreporting",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/reporting/safe_to_run_reporting.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Reporting or default?",
-    "permalink": "/safe_to_run/docs/reportingordefault"
+    "permalink": "/docs/reportingordefault"
   }
 }

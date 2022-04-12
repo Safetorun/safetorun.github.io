@@ -4,125 +4,160 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/safe_to_run/docs',
-    component: ComponentCreator('/safe_to_run/docs','9ef'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','6fe'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','18f'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','69f'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','952'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','27f'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','8d6'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','66f'),
+    exact: true
+  },
+  {
+    path: '/docs',
+    component: ComponentCreator('/docs','9a6'),
     routes: [
       {
-        path: '/safe_to_run/docs/',
-        component: ComponentCreator('/safe_to_run/docs/','238'),
+        path: '/docs/',
+        component: ComponentCreator('/docs/','f28'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/blacklist',
-        component: ComponentCreator('/safe_to_run/docs/blacklist','2f9'),
+        path: '/docs/blacklist',
+        component: ComponentCreator('/docs/blacklist','882'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/combinechecks',
-        component: ComponentCreator('/safe_to_run/docs/combinechecks','02a'),
+        path: '/docs/combinechecks',
+        component: ComponentCreator('/docs/combinechecks','9c2'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/configureandrun',
-        component: ComponentCreator('/safe_to_run/docs/configureandrun','4bf'),
+        path: '/docs/configureandrun',
+        component: ComponentCreator('/docs/configureandrun','f15'),
         exact: true
       },
       {
-        path: '/safe_to_run/docs/debugcheck',
-        component: ComponentCreator('/safe_to_run/docs/debugcheck','36b'),
+        path: '/docs/debugcheck',
+        component: ComponentCreator('/docs/debugcheck','c09'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/emulatorcheck',
-        component: ComponentCreator('/safe_to_run/docs/emulatorcheck','ede'),
+        path: '/docs/emulatorcheck',
+        component: ComponentCreator('/docs/emulatorcheck','56e'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/filesverification',
-        component: ComponentCreator('/safe_to_run/docs/filesverification','7a3'),
+        path: '/docs/filesverification',
+        component: ComponentCreator('/docs/filesverification','f89'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/gettingstarted',
-        component: ComponentCreator('/safe_to_run/docs/gettingstarted','847'),
+        path: '/docs/gettingstarted',
+        component: ComponentCreator('/docs/gettingstarted','f63'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/gettingstarted',
-        component: ComponentCreator('/safe_to_run/docs/gettingstarted','530'),
+        path: '/docs/gettingstarted',
+        component: ComponentCreator('/docs/gettingstarted','af2'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/installorigin',
-        component: ComponentCreator('/safe_to_run/docs/installorigin','5be'),
+        path: '/docs/installorigin',
+        component: ComponentCreator('/docs/installorigin','235'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/intentverification',
-        component: ComponentCreator('/safe_to_run/docs/intentverification','69e'),
+        path: '/docs/intentverification',
+        component: ComponentCreator('/docs/intentverification','6f1'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/offdevicesetup',
-        component: ComponentCreator('/safe_to_run/docs/offdevicesetup','fef'),
+        path: '/docs/offdevicesetup',
+        component: ComponentCreator('/docs/offdevicesetup','43e'),
         exact: true
       },
       {
-        path: '/safe_to_run/docs/onoroffdevice',
-        component: ComponentCreator('/safe_to_run/docs/onoroffdevice','393'),
+        path: '/docs/onoroffdevice',
+        component: ComponentCreator('/docs/onoroffdevice','2b1'),
         exact: true
       },
       {
-        path: '/safe_to_run/docs/oscheck',
-        component: ComponentCreator('/safe_to_run/docs/oscheck','ee7'),
+        path: '/docs/oscheck',
+        component: ComponentCreator('/docs/oscheck','ee9'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/reportingordefault',
-        component: ComponentCreator('/safe_to_run/docs/reportingordefault','b2c'),
+        path: '/docs/reportingordefault',
+        component: ComponentCreator('/docs/reportingordefault','efe'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/rootdetection',
-        component: ComponentCreator('/safe_to_run/docs/rootdetection','435'),
+        path: '/docs/rootdetection',
+        component: ComponentCreator('/docs/rootdetection','f6c'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/safetorunreporting',
-        component: ComponentCreator('/safe_to_run/docs/safetorunreporting','20e'),
+        path: '/docs/safetorunreporting',
+        component: ComponentCreator('/docs/safetorunreporting','927'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/signature',
-        component: ComponentCreator('/safe_to_run/docs/signature','56d'),
+        path: '/docs/signature',
+        component: ComponentCreator('/docs/signature','2cf'),
         exact: true,
         sidebar: "someSidebar"
       },
       {
-        path: '/safe_to_run/docs/verifyurls',
-        component: ComponentCreator('/safe_to_run/docs/verifyurls','7b5'),
+        path: '/docs/verifyurls',
+        component: ComponentCreator('/docs/verifyurls','134'),
         exact: true,
         sidebar: "someSidebar"
       }
     ]
   },
   {
-    path: '/safe_to_run/',
-    component: ComponentCreator('/safe_to_run/','cb3'),
+    path: '/',
+    component: ComponentCreator('/','25d'),
     exact: true
   },
   {

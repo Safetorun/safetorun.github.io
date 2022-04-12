@@ -3,7 +3,7 @@ module.exports = {
     title: 'Safe to run',
     tagline: 'Secure your mobile apps',
     url: 'https://safetorun.github.io/safe_to_run',
-    baseUrl: '/safe_to_run/',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',

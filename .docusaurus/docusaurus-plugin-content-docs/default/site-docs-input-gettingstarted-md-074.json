@@ -6,7 +6,7 @@
   "source": "@site/docs/input/gettingstarted.md",
   "sourceDirName": "input",
   "slug": "/gettingstarted",
-  "permalink": "/safe_to_run/docs/gettingstarted",
+  "permalink": "/docs/gettingstarted",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/gettingstarted.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Install origin",
-    "permalink": "/safe_to_run/docs/installorigin"
+    "permalink": "/docs/installorigin"
   },
   "next": {
     "title": "URL verification",
-    "permalink": "/safe_to_run/docs/verifyurls"
+    "permalink": "/docs/verifyurls"
   }
 }

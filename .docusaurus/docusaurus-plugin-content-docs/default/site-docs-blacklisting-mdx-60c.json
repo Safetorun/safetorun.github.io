@@ -6,7 +6,7 @@
   "source": "@site/docs/blacklisting.mdx",
   "sourceDirName": ".",
   "slug": "/blacklist",
-  "permalink": "/safe_to_run/docs/blacklist",
+  "permalink": "/docs/blacklist",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/blacklisting.mdx",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Root detection",
-    "permalink": "/safe_to_run/docs/rootdetection"
+    "permalink": "/docs/rootdetection"
   },
   "next": {
     "title": "OS Check",
-    "permalink": "/safe_to_run/docs/oscheck"
+    "permalink": "/docs/oscheck"
   }
 }

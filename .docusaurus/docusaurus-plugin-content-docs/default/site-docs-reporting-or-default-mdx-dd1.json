@@ -6,7 +6,7 @@
   "source": "@site/docs/reporting_or_default.mdx",
   "sourceDirName": ".",
   "slug": "/reportingordefault",
-  "permalink": "/safe_to_run/docs/reportingordefault",
+  "permalink": "/docs/reportingordefault",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/reporting_or_default.mdx",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Intent verification",
-    "permalink": "/safe_to_run/docs/intentverification"
+    "permalink": "/docs/intentverification"
   },
   "next": {
     "title": "Safe to run reporting",
-    "permalink": "/safe_to_run/docs/safetorunreporting"
+    "permalink": "/docs/safetorunreporting"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/debugcheck.mdx",
   "sourceDirName": ".",
   "slug": "/debugcheck",
-  "permalink": "/safe_to_run/docs/debugcheck",
+  "permalink": "/docs/debugcheck",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/debugcheck.mdx",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Emulator check",
-    "permalink": "/safe_to_run/docs/emulatorcheck"
+    "permalink": "/docs/emulatorcheck"
   },
   "next": {
     "title": "Signature verification",
-    "permalink": "/safe_to_run/docs/signature"
+    "permalink": "/docs/signature"
   }
 }

@@ -15,7 +15,7 @@
           {
             "type": "link",
             "label": "Why Safe to Run?",
-            "href": "/safe_to_run/docs/",
+            "href": "/docs/",
             "docId": "why"
           }
         ],
@@ -29,55 +29,55 @@
           {
             "type": "link",
             "label": "Getting started",
-            "href": "/safe_to_run/docs/gettingstarted",
+            "href": "/docs/gettingstarted",
             "docId": "checks/gettingstarted"
           },
           {
             "type": "link",
             "label": "Combine checks",
-            "href": "/safe_to_run/docs/combinechecks",
+            "href": "/docs/combinechecks",
             "docId": "checks/combinechecks"
           },
           {
             "type": "link",
             "label": "Root detection",
-            "href": "/safe_to_run/docs/rootdetection",
+            "href": "/docs/rootdetection",
             "docId": "rootdetection"
           },
           {
             "type": "link",
             "label": "Blacklisting apps",
-            "href": "/safe_to_run/docs/blacklist",
+            "href": "/docs/blacklist",
             "docId": "blacklisting"
           },
           {
             "type": "link",
             "label": "OS Check",
-            "href": "/safe_to_run/docs/oscheck",
+            "href": "/docs/oscheck",
             "docId": "oscheck"
           },
           {
             "type": "link",
             "label": "Emulator check",
-            "href": "/safe_to_run/docs/emulatorcheck",
+            "href": "/docs/emulatorcheck",
             "docId": "emulatorcheck"
           },
           {
             "type": "link",
             "label": "Debug check",
-            "href": "/safe_to_run/docs/debugcheck",
+            "href": "/docs/debugcheck",
             "docId": "debugcheck"
           },
           {
             "type": "link",
             "label": "Signature verification",
-            "href": "/safe_to_run/docs/signature",
+            "href": "/docs/signature",
             "docId": "signatureverification"
           },
           {
             "type": "link",
             "label": "Install origin",
-            "href": "/safe_to_run/docs/installorigin",
+            "href": "/docs/installorigin",
             "docId": "installorigin"
           }
         ],
@@ -91,25 +91,25 @@
           {
             "type": "link",
             "label": "Getting started",
-            "href": "/safe_to_run/docs/gettingstarted",
+            "href": "/docs/gettingstarted",
             "docId": "input/gettingstarted"
           },
           {
             "type": "link",
             "label": "URL verification",
-            "href": "/safe_to_run/docs/verifyurls",
+            "href": "/docs/verifyurls",
             "docId": "input/verifyurls"
           },
           {
             "type": "link",
             "label": "File verification",
-            "href": "/safe_to_run/docs/filesverification",
+            "href": "/docs/filesverification",
             "docId": "input/files"
           },
           {
             "type": "link",
             "label": "Intent verification",
-            "href": "/safe_to_run/docs/intentverification",
+            "href": "/docs/intentverification",
             "docId": "input/intentverification"
           }
         ],
@@ -123,13 +123,13 @@
           {
             "type": "link",
             "label": "Reporting or default?",
-            "href": "/safe_to_run/docs/reportingordefault",
+            "href": "/docs/reportingordefault",
             "docId": "reporting_or_default"
           },
           {
             "type": "link",
             "label": "Safe to run reporting",
-            "href": "/safe_to_run/docs/safetorunreporting",
+            "href": "/docs/safetorunreporting",
             "docId": "reporting/safetorunreporting"
           }
         ],

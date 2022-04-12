@@ -6,7 +6,7 @@
   "source": "@site/docs/installorigin.mdx",
   "sourceDirName": ".",
   "slug": "/installorigin",
-  "permalink": "/safe_to_run/docs/installorigin",
+  "permalink": "/docs/installorigin",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/installorigin.mdx",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Signature verification",
-    "permalink": "/safe_to_run/docs/signature"
+    "permalink": "/docs/signature"
   },
   "next": {
     "title": "Getting started",
-    "permalink": "/safe_to_run/docs/gettingstarted"
+    "permalink": "/docs/gettingstarted"
   }
 }

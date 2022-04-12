@@ -6,7 +6,7 @@
   "source": "@site/docs/rootdetection.mdx",
   "sourceDirName": ".",
   "slug": "/rootdetection",
-  "permalink": "/safe_to_run/docs/rootdetection",
+  "permalink": "/docs/rootdetection",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/rootdetection.mdx",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Combine checks",
-    "permalink": "/safe_to_run/docs/combinechecks"
+    "permalink": "/docs/combinechecks"
   },
   "next": {
     "title": "Blacklisting apps",
-    "permalink": "/safe_to_run/docs/blacklist"
+    "permalink": "/docs/blacklist"
   }
 }

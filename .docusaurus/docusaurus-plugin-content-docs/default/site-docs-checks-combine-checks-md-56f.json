@@ -6,7 +6,7 @@
   "source": "@site/docs/checks/combine_checks.md",
   "sourceDirName": "checks",
   "slug": "/combinechecks",
-  "permalink": "/safe_to_run/docs/combinechecks",
+  "permalink": "/docs/combinechecks",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/checks/combine_checks.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Getting started",
-    "permalink": "/safe_to_run/docs/gettingstarted"
+    "permalink": "/docs/gettingstarted"
   },
   "next": {
     "title": "Root detection",
-    "permalink": "/safe_to_run/docs/rootdetection"
+    "permalink": "/docs/rootdetection"
   }
 }

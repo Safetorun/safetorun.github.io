@@ -6,7 +6,7 @@
   "source": "@site/docs/emulatorcheck.mdx",
   "sourceDirName": ".",
   "slug": "/emulatorcheck",
-  "permalink": "/safe_to_run/docs/emulatorcheck",
+  "permalink": "/docs/emulatorcheck",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/emulatorcheck.mdx",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "OS Check",
-    "permalink": "/safe_to_run/docs/oscheck"
+    "permalink": "/docs/oscheck"
   },
   "next": {
     "title": "Debug check",
-    "permalink": "/safe_to_run/docs/debugcheck"
+    "permalink": "/docs/debugcheck"
   }
 }

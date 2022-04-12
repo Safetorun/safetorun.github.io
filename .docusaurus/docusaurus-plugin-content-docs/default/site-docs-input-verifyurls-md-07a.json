@@ -6,7 +6,7 @@
   "source": "@site/docs/input/verifyurls.md",
   "sourceDirName": "input",
   "slug": "/verifyurls",
-  "permalink": "/safe_to_run/docs/verifyurls",
+  "permalink": "/docs/verifyurls",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/verifyurls.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Getting started",
-    "permalink": "/safe_to_run/docs/gettingstarted"
+    "permalink": "/docs/gettingstarted"
   },
   "next": {
     "title": "File verification",
-    "permalink": "/safe_to_run/docs/filesverification"
+    "permalink": "/docs/filesverification"
   }
 }

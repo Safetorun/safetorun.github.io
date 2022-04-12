@@ -1,0 +1,630 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs",
+          "versionEditUrlLocalized": "https://github.com/safetorun/safe_to_run_docs/edit/master/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/sidebars.js",
+          "contentPath": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/docs",
+          "contentPathLocalized": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "blacklisting",
+              "id": "blacklisting",
+              "title": "Blacklisting apps",
+              "description": "For full information see here:",
+              "source": "@site/docs/blacklisting.mdx",
+              "sourceDirName": ".",
+              "slug": "/blacklist",
+              "permalink": "/docs/blacklist",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/blacklisting.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "blacklisting",
+                "title": "Blacklisting apps",
+                "slug": "/blacklist"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Root detection",
+                "permalink": "/docs/rootdetection"
+              },
+              "next": {
+                "title": "OS Check",
+                "permalink": "/docs/oscheck"
+              }
+            },
+            {
+              "unversionedId": "checks/combinechecks",
+              "id": "checks/combinechecks",
+              "title": "Combine checks",
+              "description": "Safe to run (Default) provides the ability to combine multiple checks together, and also",
+              "source": "@site/docs/checks/combine_checks.md",
+              "sourceDirName": "checks",
+              "slug": "/combinechecks",
+              "permalink": "/docs/combinechecks",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/checks/combine_checks.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "combinechecks",
+                "title": "Combine checks",
+                "slug": "/combinechecks"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Getting started",
+                "permalink": "/docs/gettingstarted"
+              },
+              "next": {
+                "title": "Root detection",
+                "permalink": "/docs/rootdetection"
+              }
+            },
+            {
+              "unversionedId": "checks/gettingstarted",
+              "id": "checks/gettingstarted",
+              "title": "Getting started",
+              "description": "Gradle:",
+              "source": "@site/docs/checks/gettingstarted.mdx",
+              "sourceDirName": "checks",
+              "slug": "/gettingstarted",
+              "permalink": "/docs/gettingstarted",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/checks/gettingstarted.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "gettingstarted",
+                "title": "Getting started",
+                "slug": "/gettingstarted"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Why Safe to Run?",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Combine checks",
+                "permalink": "/docs/combinechecks"
+              }
+            },
+            {
+              "unversionedId": "debugcheck",
+              "id": "debugcheck",
+              "title": "Debug check",
+              "description": "Debug check is the simplest to configure.",
+              "source": "@site/docs/debugcheck.mdx",
+              "sourceDirName": ".",
+              "slug": "/debugcheck",
+              "permalink": "/docs/debugcheck",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/debugcheck.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "debugcheck",
+                "title": "Debug check",
+                "slug": "/debugcheck"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Emulator check",
+                "permalink": "/docs/emulatorcheck"
+              },
+              "next": {
+                "title": "Signature verification",
+                "permalink": "/docs/signature"
+              }
+            },
+            {
+              "unversionedId": "emulatorcheck",
+              "id": "emulatorcheck",
+              "title": "Emulator check",
+              "description": "More information, including the motivation for emulator detection can be found in this article:",
+              "source": "@site/docs/emulatorcheck.mdx",
+              "sourceDirName": ".",
+              "slug": "/emulatorcheck",
+              "permalink": "/docs/emulatorcheck",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/emulatorcheck.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "emulatorcheck",
+                "title": "Emulator check",
+                "slug": "/emulatorcheck"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "OS Check",
+                "permalink": "/docs/oscheck"
+              },
+              "next": {
+                "title": "Debug check",
+                "permalink": "/docs/debugcheck"
+              }
+            },
+            {
+              "unversionedId": "input/files",
+              "id": "input/files",
+              "title": "File verification",
+              "description": "Verify files",
+              "source": "@site/docs/input/files.md",
+              "sourceDirName": "input",
+              "slug": "/filesverification",
+              "permalink": "/docs/filesverification",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/files.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "files",
+                "title": "File verification",
+                "slug": "/filesverification"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "URL verification",
+                "permalink": "/docs/verifyurls"
+              },
+              "next": {
+                "title": "Intent verification",
+                "permalink": "/docs/intentverification"
+              }
+            },
+            {
+              "unversionedId": "input/gettingstarted",
+              "id": "input/gettingstarted",
+              "title": "Getting started",
+              "description": "Gradle:",
+              "source": "@site/docs/input/gettingstarted.md",
+              "sourceDirName": "input",
+              "slug": "/gettingstarted",
+              "permalink": "/docs/gettingstarted",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/gettingstarted.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "gettingstarted",
+                "title": "Getting started",
+                "slug": "/gettingstarted"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Install origin",
+                "permalink": "/docs/installorigin"
+              },
+              "next": {
+                "title": "URL verification",
+                "permalink": "/docs/verifyurls"
+              }
+            },
+            {
+              "unversionedId": "input/intentverification",
+              "id": "input/intentverification",
+              "title": "Intent verification",
+              "description": "Intent verification is currently still in Beta! Please provide feedback as an",
+              "source": "@site/docs/input/intentverification.md",
+              "sourceDirName": "input",
+              "slug": "/intentverification",
+              "permalink": "/docs/intentverification",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/intentverification.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "intentverification",
+                "title": "Intent verification",
+                "slug": "/intentverification"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "File verification",
+                "permalink": "/docs/filesverification"
+              },
+              "next": {
+                "title": "Reporting or default?",
+                "permalink": "/docs/reportingordefault"
+              }
+            },
+            {
+              "unversionedId": "input/verifyurls",
+              "id": "input/verifyurls",
+              "title": "URL verification",
+              "description": "Verify URLs",
+              "source": "@site/docs/input/verifyurls.md",
+              "sourceDirName": "input",
+              "slug": "/verifyurls",
+              "permalink": "/docs/verifyurls",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/verifyurls.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "verifyurls",
+                "title": "URL verification",
+                "slug": "/verifyurls"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Getting started",
+                "permalink": "/docs/gettingstarted"
+              },
+              "next": {
+                "title": "File verification",
+                "permalink": "/docs/filesverification"
+              }
+            },
+            {
+              "unversionedId": "installorigin",
+              "id": "installorigin",
+              "title": "Install origin",
+              "description": "The purpose of this library is to ensure that packages are not installed from anywhere other than the configured",
+              "source": "@site/docs/installorigin.mdx",
+              "sourceDirName": ".",
+              "slug": "/installorigin",
+              "permalink": "/docs/installorigin",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/installorigin.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "installorigin",
+                "title": "Install origin",
+                "slug": "/installorigin"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Signature verification",
+                "permalink": "/docs/signature"
+              },
+              "next": {
+                "title": "Getting started",
+                "permalink": "/docs/gettingstarted"
+              }
+            },
+            {
+              "unversionedId": "offdevice/configureandrun",
+              "id": "offdevice/configureandrun",
+              "title": "Configure and run",
+              "description": "Calling safeToRunOffDevice twice with the same API key will",
+              "source": "@site/docs/offdevice/configureandrun.md",
+              "sourceDirName": "offdevice",
+              "slug": "/configureandrun",
+              "permalink": "/docs/configureandrun",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/offdevice/configureandrun.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "configureandrun",
+                "title": "Configure and run",
+                "slug": "/configureandrun"
+              }
+            },
+            {
+              "unversionedId": "offdevice/offdevicesetup",
+              "id": "offdevice/offdevicesetup",
+              "title": "Off device setup",
+              "description": "Off device is currently in beta",
+              "source": "@site/docs/offdevice/offdevicesetup.md",
+              "sourceDirName": "offdevice",
+              "slug": "/offdevicesetup",
+              "permalink": "/docs/offdevicesetup",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/offdevice/offdevicesetup.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "offdevicesetup",
+                "title": "Off device setup",
+                "slug": "/offdevicesetup"
+              }
+            },
+            {
+              "unversionedId": "onoroffdevice",
+              "id": "onoroffdevice",
+              "title": "On or off device?",
+              "description": "Off device is currently in beta",
+              "source": "@site/docs/onoroffdevice.md",
+              "sourceDirName": ".",
+              "slug": "/onoroffdevice",
+              "permalink": "/docs/onoroffdevice",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/onoroffdevice.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "onoroffdevice",
+                "title": "On or off device?",
+                "slug": "/onoroffdevice"
+              }
+            },
+            {
+              "unversionedId": "oscheck",
+              "id": "oscheck",
+              "title": "OS Check",
+              "description": "There are the following options for configuration:",
+              "source": "@site/docs/oscheck.mdx",
+              "sourceDirName": ".",
+              "slug": "/oscheck",
+              "permalink": "/docs/oscheck",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/oscheck.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "oscheck",
+                "title": "OS Check",
+                "slug": "/oscheck"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Blacklisting apps",
+                "permalink": "/docs/blacklist"
+              },
+              "next": {
+                "title": "Emulator check",
+                "permalink": "/docs/emulatorcheck"
+              }
+            },
+            {
+              "unversionedId": "reporting_or_default",
+              "id": "reporting_or_default",
+              "title": "Reporting or default?",
+              "description": "Safe to run supports two modes of operation. Default and reporting.",
+              "source": "@site/docs/reporting_or_default.mdx",
+              "sourceDirName": ".",
+              "slug": "/reportingordefault",
+              "permalink": "/docs/reportingordefault",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/reporting_or_default.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "reporting_or_default",
+                "title": "Reporting or default?",
+                "slug": "/reportingordefault"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Intent verification",
+                "permalink": "/docs/intentverification"
+              },
+              "next": {
+                "title": "Safe to run reporting",
+                "permalink": "/docs/safetorunreporting"
+              }
+            },
+            {
+              "unversionedId": "reporting/safetorunreporting",
+              "id": "reporting/safetorunreporting",
+              "title": "Safe to run reporting",
+              "description": "Errors and Warns",
+              "source": "@site/docs/reporting/safe_to_run_reporting.md",
+              "sourceDirName": "reporting",
+              "slug": "/safetorunreporting",
+              "permalink": "/docs/safetorunreporting",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/reporting/safe_to_run_reporting.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "safetorunreporting",
+                "title": "Safe to run reporting",
+                "slug": "/safetorunreporting"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Reporting or default?",
+                "permalink": "/docs/reportingordefault"
+              }
+            },
+            {
+              "unversionedId": "rootdetection",
+              "id": "rootdetection",
+              "title": "Root detection",
+              "description": "Root detection is mostly deferred to RootBeer. The configuration looks like this:",
+              "source": "@site/docs/rootdetection.mdx",
+              "sourceDirName": ".",
+              "slug": "/rootdetection",
+              "permalink": "/docs/rootdetection",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/rootdetection.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "rootdetection",
+                "title": "Root detection",
+                "slug": "/rootdetection"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Combine checks",
+                "permalink": "/docs/combinechecks"
+              },
+              "next": {
+                "title": "Blacklisting apps",
+                "permalink": "/docs/blacklist"
+              }
+            },
+            {
+              "unversionedId": "signatureverification",
+              "id": "signatureverification",
+              "title": "Signature verification",
+              "description": "Configuration",
+              "source": "@site/docs/signatureverification.mdx",
+              "sourceDirName": ".",
+              "slug": "/signature",
+              "permalink": "/docs/signature",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/signatureverification.mdx",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "signatureverification",
+                "title": "Signature verification",
+                "slug": "/signature"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Debug check",
+                "permalink": "/docs/debugcheck"
+              },
+              "next": {
+                "title": "Install origin",
+                "permalink": "/docs/installorigin"
+              }
+            },
+            {
+              "unversionedId": "why",
+              "id": "why",
+              "title": "Why Safe to Run?",
+              "description": "No solution to tamper detection is foolproof, if someone is able to decompile your application and",
+              "source": "@site/docs/why.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/why.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "why",
+                "title": "Why Safe to Run?",
+                "slug": "/"
+              },
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "Getting started",
+                "permalink": "/docs/gettingstarted"
+              }
+            }
+          ],
+          "sidebars": {
+            "someSidebar": [
+              {
+                "type": "category",
+                "label": "Overview",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "why"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Checks",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "checks/gettingstarted"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "checks/combinechecks"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "rootdetection"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "blacklisting"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "oscheck"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "emulatorcheck"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "debugcheck"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "signatureverification"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "installorigin"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Input verification",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "input/gettingstarted"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "input/verifyurls"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "input/files"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "input/intentverification"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Reporting",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "reporting_or_default"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "reporting/safetorunreporting"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          },
+          "mainDocId": "why",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null,
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-google-analytics": {},
+  "docusaurus-plugin-debug": {},
+  "docusaurus-plugin-google-gtag": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-node-polyfills": {}
+}

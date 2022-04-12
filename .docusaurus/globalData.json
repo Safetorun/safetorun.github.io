@@ -8,112 +8,112 @@
   },
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/safe_to_run/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/safe_to_run/docs",
+          "path": "/docs",
           "mainDocId": "why",
           "docs": [
             {
               "id": "blacklisting",
-              "path": "/safe_to_run/docs/blacklist",
+              "path": "/docs/blacklist",
               "sidebar": "someSidebar"
             },
             {
               "id": "checks/combinechecks",
-              "path": "/safe_to_run/docs/combinechecks",
+              "path": "/docs/combinechecks",
               "sidebar": "someSidebar"
             },
             {
               "id": "checks/gettingstarted",
-              "path": "/safe_to_run/docs/gettingstarted",
+              "path": "/docs/gettingstarted",
               "sidebar": "someSidebar"
             },
             {
               "id": "debugcheck",
-              "path": "/safe_to_run/docs/debugcheck",
+              "path": "/docs/debugcheck",
               "sidebar": "someSidebar"
             },
             {
               "id": "emulatorcheck",
-              "path": "/safe_to_run/docs/emulatorcheck",
+              "path": "/docs/emulatorcheck",
               "sidebar": "someSidebar"
             },
             {
               "id": "input/files",
-              "path": "/safe_to_run/docs/filesverification",
+              "path": "/docs/filesverification",
               "sidebar": "someSidebar"
             },
             {
               "id": "input/gettingstarted",
-              "path": "/safe_to_run/docs/gettingstarted",
+              "path": "/docs/gettingstarted",
               "sidebar": "someSidebar"
             },
             {
               "id": "input/intentverification",
-              "path": "/safe_to_run/docs/intentverification",
+              "path": "/docs/intentverification",
               "sidebar": "someSidebar"
             },
             {
               "id": "input/verifyurls",
-              "path": "/safe_to_run/docs/verifyurls",
+              "path": "/docs/verifyurls",
               "sidebar": "someSidebar"
             },
             {
               "id": "installorigin",
-              "path": "/safe_to_run/docs/installorigin",
+              "path": "/docs/installorigin",
               "sidebar": "someSidebar"
             },
             {
               "id": "offdevice/configureandrun",
-              "path": "/safe_to_run/docs/configureandrun"
+              "path": "/docs/configureandrun"
             },
             {
               "id": "offdevice/offdevicesetup",
-              "path": "/safe_to_run/docs/offdevicesetup"
+              "path": "/docs/offdevicesetup"
             },
             {
               "id": "onoroffdevice",
-              "path": "/safe_to_run/docs/onoroffdevice"
+              "path": "/docs/onoroffdevice"
             },
             {
               "id": "oscheck",
-              "path": "/safe_to_run/docs/oscheck",
+              "path": "/docs/oscheck",
               "sidebar": "someSidebar"
             },
             {
               "id": "reporting_or_default",
-              "path": "/safe_to_run/docs/reportingordefault",
+              "path": "/docs/reportingordefault",
               "sidebar": "someSidebar"
             },
             {
               "id": "reporting/safetorunreporting",
-              "path": "/safe_to_run/docs/safetorunreporting",
+              "path": "/docs/safetorunreporting",
               "sidebar": "someSidebar"
             },
             {
               "id": "rootdetection",
-              "path": "/safe_to_run/docs/rootdetection",
+              "path": "/docs/rootdetection",
               "sidebar": "someSidebar"
             },
             {
               "id": "signatureverification",
-              "path": "/safe_to_run/docs/signature",
+              "path": "/docs/signature",
               "sidebar": "someSidebar"
             },
             {
               "id": "why",
-              "path": "/safe_to_run/docs/",
+              "path": "/docs/",
               "sidebar": "someSidebar"
             }
           ],
           "sidebars": {
             "someSidebar": {
               "link": {
-                "path": "/safe_to_run/docs/",
+                "path": "/docs/",
                 "label": "why"
               }
             }
