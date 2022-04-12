@@ -2,9 +2,9 @@ name: documentation
 
 on:
   pull_request:
-    branches: [master]
+    branches: [main]
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   checks:
@@ -37,10 +37,8 @@ jobs:
       - uses: webfactory/ssh-agent@v0.5.0
         with:
           ssh-private-key: ${{ secrets.GH_PAGES_DEPLOY }}
-      - name: Build dokkas
-        run: ./gradlew safeToRun:dokkaHtml
       - name: Release to GitHub Pages
-        working-directory: docs
+        working-directory: .
         env:
           USE_SSH: true
           GIT_USER: git
