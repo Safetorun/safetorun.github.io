@@ -1,0 +1,27 @@
+{
+  "unversionedId": "checks/gettingstarted",
+  "id": "checks/gettingstarted",
+  "title": "Getting started",
+  "description": "Gradle:",
+  "source": "@site/docs/checks/gettingstarted.mdx",
+  "sourceDirName": "checks",
+  "slug": "/gettingstarted",
+  "permalink": "/safe_to_run/docs/gettingstarted",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/checks/gettingstarted.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "gettingstarted",
+    "title": "Getting started",
+    "slug": "/gettingstarted"
+  },
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Why Safe to Run?",
+    "permalink": "/safe_to_run/docs/"
+  },
+  "next": {
+    "title": "Combine checks",
+    "permalink": "/safe_to_run/docs/combinechecks"
+  }
+}

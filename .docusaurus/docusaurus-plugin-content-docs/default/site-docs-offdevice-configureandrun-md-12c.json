@@ -1,0 +1,18 @@
+{
+  "unversionedId": "offdevice/configureandrun",
+  "id": "offdevice/configureandrun",
+  "title": "Configure and run",
+  "description": "Calling safeToRunOffDevice twice with the same API key will",
+  "source": "@site/docs/offdevice/configureandrun.md",
+  "sourceDirName": "offdevice",
+  "slug": "/configureandrun",
+  "permalink": "/safe_to_run/docs/configureandrun",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/offdevice/configureandrun.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "configureandrun",
+    "title": "Configure and run",
+    "slug": "/configureandrun"
+  }
+}

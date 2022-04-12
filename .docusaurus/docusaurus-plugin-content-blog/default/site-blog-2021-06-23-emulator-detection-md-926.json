@@ -1,0 +1,61 @@
+{
+  "permalink": "/safe_to_run/blog/emulator-detection",
+  "source": "@site/blog/2021-06-23-emulator-detection.md",
+  "title": "Emulator detection",
+  "description": "Use safe to run to detect emulators on Android",
+  "date": "2021-06-23T00:00:00.000Z",
+  "formattedDate": "June 23, 2021",
+  "tags": [
+    {
+      "label": "security",
+      "permalink": "/safe_to_run/blog/tags/security"
+    },
+    {
+      "label": "android",
+      "permalink": "/safe_to_run/blog/tags/android"
+    },
+    {
+      "label": "safetorun",
+      "permalink": "/safe_to_run/blog/tags/safetorun"
+    },
+    {
+      "label": "emulator detection",
+      "permalink": "/safe_to_run/blog/tags/emulator-detection"
+    },
+    {
+      "label": "kotlin",
+      "permalink": "/safe_to_run/blog/tags/kotlin"
+    }
+  ],
+  "readingTime": 2.54,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Daniel Llewellyn",
+      "url": "https://github.com/dllewellyn"
+    }
+  ],
+  "frontMatter": {
+    "slug": "emulator-detection",
+    "title": "Emulator detection",
+    "author": "Daniel Llewellyn",
+    "author_url": "https://github.com/dllewellyn",
+    "description": "Use safe to run to detect emulators on Android",
+    "image": "img/emulator.png",
+    "tags": [
+      "security",
+      "android",
+      "safetorun",
+      "emulator detection",
+      "kotlin"
+    ]
+  },
+  "prevItem": {
+    "title": "Secure against de/recompiling android apps",
+    "permalink": "/safe_to_run/blog/inline-functions"
+  },
+  "nextItem": {
+    "title": "Secure android apps with Safe to run",
+    "permalink": "/safe_to_run/blog/safe-to-run"
+  }
+}

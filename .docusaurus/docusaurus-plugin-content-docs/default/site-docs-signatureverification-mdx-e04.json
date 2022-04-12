@@ -1,0 +1,27 @@
+{
+  "unversionedId": "signatureverification",
+  "id": "signatureverification",
+  "title": "Signature verification",
+  "description": "Configuration",
+  "source": "@site/docs/signatureverification.mdx",
+  "sourceDirName": ".",
+  "slug": "/signature",
+  "permalink": "/safe_to_run/docs/signature",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/signatureverification.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "signatureverification",
+    "title": "Signature verification",
+    "slug": "/signature"
+  },
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Debug check",
+    "permalink": "/safe_to_run/docs/debugcheck"
+  },
+  "next": {
+    "title": "Install origin",
+    "permalink": "/safe_to_run/docs/installorigin"
+  }
+}

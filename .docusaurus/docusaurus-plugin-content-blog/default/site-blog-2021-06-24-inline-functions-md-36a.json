@@ -1,0 +1,66 @@
+{
+  "permalink": "/safe_to_run/blog/inline-functions",
+  "source": "@site/blog/2021-06-24-inline-functions.md",
+  "title": "Secure against de/recompiling android apps",
+  "description": "Using kotlin Inline functions to help secure against de/recompiling android apps",
+  "date": "2021-06-24T00:00:00.000Z",
+  "formattedDate": "June 24, 2021",
+  "tags": [
+    {
+      "label": "security",
+      "permalink": "/safe_to_run/blog/tags/security"
+    },
+    {
+      "label": "android",
+      "permalink": "/safe_to_run/blog/tags/android"
+    },
+    {
+      "label": "safetorun",
+      "permalink": "/safe_to_run/blog/tags/safetorun"
+    },
+    {
+      "label": "inline",
+      "permalink": "/safe_to_run/blog/tags/inline"
+    },
+    {
+      "label": "decompilation",
+      "permalink": "/safe_to_run/blog/tags/decompilation"
+    },
+    {
+      "label": "recompilation",
+      "permalink": "/safe_to_run/blog/tags/recompilation"
+    },
+    {
+      "label": "kotlin",
+      "permalink": "/safe_to_run/blog/tags/kotlin"
+    }
+  ],
+  "readingTime": 5.035,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Daniel Llewellyn",
+      "url": "https://github.com/dllewellyn"
+    }
+  ],
+  "frontMatter": {
+    "slug": "inline-functions",
+    "title": "Secure against de/recompiling android apps",
+    "author": "Daniel Llewellyn",
+    "author_url": "https://github.com/dllewellyn",
+    "tags": [
+      "security",
+      "android",
+      "safetorun",
+      "inline",
+      "decompilation",
+      "recompilation",
+      "kotlin",
+      "inline"
+    ]
+  },
+  "nextItem": {
+    "title": "Emulator detection",
+    "permalink": "/safe_to_run/blog/emulator-detection"
+  }
+}

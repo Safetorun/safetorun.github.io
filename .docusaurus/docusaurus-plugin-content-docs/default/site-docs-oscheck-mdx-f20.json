@@ -1,0 +1,27 @@
+{
+  "unversionedId": "oscheck",
+  "id": "oscheck",
+  "title": "OS Check",
+  "description": "There are the following options for configuration:",
+  "source": "@site/docs/oscheck.mdx",
+  "sourceDirName": ".",
+  "slug": "/oscheck",
+  "permalink": "/safe_to_run/docs/oscheck",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/oscheck.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "oscheck",
+    "title": "OS Check",
+    "slug": "/oscheck"
+  },
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Blacklisting apps",
+    "permalink": "/safe_to_run/docs/blacklist"
+  },
+  "next": {
+    "title": "Emulator check",
+    "permalink": "/safe_to_run/docs/emulatorcheck"
+  }
+}

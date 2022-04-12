@@ -1,0 +1,27 @@
+{
+  "unversionedId": "input/intentverification",
+  "id": "input/intentverification",
+  "title": "Intent verification",
+  "description": "Intent verification is currently still in Beta! Please provide feedback as an",
+  "source": "@site/docs/input/intentverification.md",
+  "sourceDirName": "input",
+  "slug": "/intentverification",
+  "permalink": "/safe_to_run/docs/intentverification",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/intentverification.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intentverification",
+    "title": "Intent verification",
+    "slug": "/intentverification"
+  },
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "File verification",
+    "permalink": "/safe_to_run/docs/filesverification"
+  },
+  "next": {
+    "title": "Reporting or default?",
+    "permalink": "/safe_to_run/docs/reportingordefault"
+  }
+}

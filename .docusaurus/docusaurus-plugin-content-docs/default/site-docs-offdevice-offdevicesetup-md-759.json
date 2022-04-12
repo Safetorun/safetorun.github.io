@@ -1,0 +1,18 @@
+{
+  "unversionedId": "offdevice/offdevicesetup",
+  "id": "offdevice/offdevicesetup",
+  "title": "Off device setup",
+  "description": "Off device is currently in beta",
+  "source": "@site/docs/offdevice/offdevicesetup.md",
+  "sourceDirName": "offdevice",
+  "slug": "/offdevicesetup",
+  "permalink": "/safe_to_run/docs/offdevicesetup",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/offdevice/offdevicesetup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "offdevicesetup",
+    "title": "Off device setup",
+    "slug": "/offdevicesetup"
+  }
+}

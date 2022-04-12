@@ -9,15 +9,8 @@ module.exports = {
     favicon: 'img/favicon.ico',
     organizationName: 'safetorun',
     projectName: 'safe_to_run',
+    plugins: ['docusaurus-node-polyfills'],
     themeConfig: {
-        googleAnalytics: {
-            trackingID: 'UA-158023887-2',
-            anonymizeIP: true,
-        },
-        gtag: {
-            trackingID: 'UA-158023887-2',
-            anonymizeIP: true
-        },
         twitter: true,
         twitterUsername: "safe_run",
         twitterImage: "https://pbs.twimg.com/profile_images/1408694411215638530/81oDI0da_400x400.jpg",
@@ -34,7 +27,6 @@ module.exports = {
                     label: 'Docs',
                     position: 'left',
                 },
-                {to: 'blog', label: 'Blog', position: 'left'},
                 {
                     href: 'https://github.com/safetorun/safe_to_run/',
                     label: 'GitHub',
@@ -59,7 +51,15 @@ module.exports = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     editUrl:
-                        'https://github.com/safetorun/safe_to_run/edit/master/docs/',
+                        'https://github.com/safetorun/safe_to_run_docs/edit/master/',
+                },
+                googleAnalytics: {
+                    trackingID: 'UA-158023887-2',
+                    anonymizeIP: true,
+                },
+                gtag: {
+                    trackingID: 'UA-158023887-2',
+                    anonymizeIP: true
                 },
             },
         ],

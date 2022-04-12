@@ -1,0 +1,23 @@
+{
+  "unversionedId": "why",
+  "id": "why",
+  "title": "Why Safe to Run?",
+  "description": "No solution to tamper detection is foolproof, if someone is able to decompile your application and",
+  "source": "@site/docs/why.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/safe_to_run/docs/",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/why.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "why",
+    "title": "Why Safe to Run?",
+    "slug": "/"
+  },
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Getting started",
+    "permalink": "/safe_to_run/docs/gettingstarted"
+  }
+}

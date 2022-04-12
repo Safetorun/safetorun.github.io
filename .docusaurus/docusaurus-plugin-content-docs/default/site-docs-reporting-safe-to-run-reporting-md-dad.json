@@ -1,0 +1,23 @@
+{
+  "unversionedId": "reporting/safetorunreporting",
+  "id": "reporting/safetorunreporting",
+  "title": "Safe to run reporting",
+  "description": "Errors and Warns",
+  "source": "@site/docs/reporting/safe_to_run_reporting.md",
+  "sourceDirName": "reporting",
+  "slug": "/safetorunreporting",
+  "permalink": "/safe_to_run/docs/safetorunreporting",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/reporting/safe_to_run_reporting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "safetorunreporting",
+    "title": "Safe to run reporting",
+    "slug": "/safetorunreporting"
+  },
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Reporting or default?",
+    "permalink": "/safe_to_run/docs/reportingordefault"
+  }
+}

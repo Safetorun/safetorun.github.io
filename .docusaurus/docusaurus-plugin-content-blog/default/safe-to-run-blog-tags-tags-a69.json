@@ -1,0 +1,50 @@
+{
+  "security": {
+    "allTagsPath": "/safe_to_run/blog/tags",
+    "name": "security",
+    "count": 3,
+    "permalink": "/safe_to_run/blog/tags/security"
+  },
+  "android": {
+    "allTagsPath": "/safe_to_run/blog/tags",
+    "name": "android",
+    "count": 3,
+    "permalink": "/safe_to_run/blog/tags/android"
+  },
+  "safetorun": {
+    "allTagsPath": "/safe_to_run/blog/tags",
+    "name": "safetorun",
+    "count": 3,
+    "permalink": "/safe_to_run/blog/tags/safetorun"
+  },
+  "inline": {
+    "allTagsPath": "/safe_to_run/blog/tags",
+    "name": "inline",
+    "count": 1,
+    "permalink": "/safe_to_run/blog/tags/inline"
+  },
+  "decompilation": {
+    "allTagsPath": "/safe_to_run/blog/tags",
+    "name": "decompilation",
+    "count": 1,
+    "permalink": "/safe_to_run/blog/tags/decompilation"
+  },
+  "recompilation": {
+    "allTagsPath": "/safe_to_run/blog/tags",
+    "name": "recompilation",
+    "count": 1,
+    "permalink": "/safe_to_run/blog/tags/recompilation"
+  },
+  "kotlin": {
+    "allTagsPath": "/safe_to_run/blog/tags",
+    "name": "kotlin",
+    "count": 3,
+    "permalink": "/safe_to_run/blog/tags/kotlin"
+  },
+  "emulator detection": {
+    "allTagsPath": "/safe_to_run/blog/tags",
+    "name": "emulator detection",
+    "count": 1,
+    "permalink": "/safe_to_run/blog/tags/emulator-detection"
+  }
+}

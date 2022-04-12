@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reporting_or_default",
+  "id": "reporting_or_default",
+  "title": "Reporting or default?",
+  "description": "Safe to run supports two modes of operation. Default and reporting.",
+  "source": "@site/docs/reporting_or_default.mdx",
+  "sourceDirName": ".",
+  "slug": "/reportingordefault",
+  "permalink": "/safe_to_run/docs/reportingordefault",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/reporting_or_default.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "reporting_or_default",
+    "title": "Reporting or default?",
+    "slug": "/reportingordefault"
+  },
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Intent verification",
+    "permalink": "/safe_to_run/docs/intentverification"
+  },
+  "next": {
+    "title": "Safe to run reporting",
+    "permalink": "/safe_to_run/docs/safetorunreporting"
+  }
+}

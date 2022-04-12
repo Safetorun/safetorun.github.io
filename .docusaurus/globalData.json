@@ -1,0 +1,126 @@
+{
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": "UA-158023887-2",
+      "anonymizeIP": true,
+      "id": "default"
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/safe_to_run/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/safe_to_run/docs",
+          "mainDocId": "why",
+          "docs": [
+            {
+              "id": "blacklisting",
+              "path": "/safe_to_run/docs/blacklist",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "checks/combinechecks",
+              "path": "/safe_to_run/docs/combinechecks",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "checks/gettingstarted",
+              "path": "/safe_to_run/docs/gettingstarted",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "debugcheck",
+              "path": "/safe_to_run/docs/debugcheck",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "emulatorcheck",
+              "path": "/safe_to_run/docs/emulatorcheck",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "input/files",
+              "path": "/safe_to_run/docs/filesverification",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "input/gettingstarted",
+              "path": "/safe_to_run/docs/gettingstarted",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "input/intentverification",
+              "path": "/safe_to_run/docs/intentverification",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "input/verifyurls",
+              "path": "/safe_to_run/docs/verifyurls",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "installorigin",
+              "path": "/safe_to_run/docs/installorigin",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "offdevice/configureandrun",
+              "path": "/safe_to_run/docs/configureandrun"
+            },
+            {
+              "id": "offdevice/offdevicesetup",
+              "path": "/safe_to_run/docs/offdevicesetup"
+            },
+            {
+              "id": "onoroffdevice",
+              "path": "/safe_to_run/docs/onoroffdevice"
+            },
+            {
+              "id": "oscheck",
+              "path": "/safe_to_run/docs/oscheck",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "reporting_or_default",
+              "path": "/safe_to_run/docs/reportingordefault",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "reporting/safetorunreporting",
+              "path": "/safe_to_run/docs/safetorunreporting",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "rootdetection",
+              "path": "/safe_to_run/docs/rootdetection",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "signatureverification",
+              "path": "/safe_to_run/docs/signature",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "why",
+              "path": "/safe_to_run/docs/",
+              "sidebar": "someSidebar"
+            }
+          ],
+          "sidebars": {
+            "someSidebar": {
+              "link": {
+                "path": "/safe_to_run/docs/",
+                "label": "why"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

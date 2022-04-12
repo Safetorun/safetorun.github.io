@@ -1,0 +1,27 @@
+{
+  "unversionedId": "blacklisting",
+  "id": "blacklisting",
+  "title": "Blacklisting apps",
+  "description": "For full information see here:",
+  "source": "@site/docs/blacklisting.mdx",
+  "sourceDirName": ".",
+  "slug": "/blacklist",
+  "permalink": "/safe_to_run/docs/blacklist",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/blacklisting.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "blacklisting",
+    "title": "Blacklisting apps",
+    "slug": "/blacklist"
+  },
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Root detection",
+    "permalink": "/safe_to_run/docs/rootdetection"
+  },
+  "next": {
+    "title": "OS Check",
+    "permalink": "/safe_to_run/docs/oscheck"
+  }
+}
