@@ -7,7 +7,7 @@ slug: /gettingstarted
 Gradle:
 
 ```groovy
-implementation "io.github.dllewellyn.safetorun:inputverification:$latest_version"
+implementation "com.safetorun:inputverification:$latest_version"
 ```
 
 Sample for URL verification

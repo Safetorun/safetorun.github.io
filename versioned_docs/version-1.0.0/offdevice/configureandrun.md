@@ -16,7 +16,7 @@ return the same instance.
 
 In order to change the deployment, open the file: 
 
-`SafeToRunBackend/io/github/dllewellyn/safetorun/backend/safe_to_run_configuration.kt`
+`SafeToRunBackend/com/safetorun/backend/safe_to_run_configuration.kt`
 
 Use the `configure` block to configure your deployment. 
 Look at the documentation for checks in order to get more
