@@ -1,15 +1,15 @@
 {
   "unversionedId": "blacklisting",
-  "id": "blacklisting",
+  "id": "version-1.0.0/blacklisting",
   "title": "Blacklisting apps",
   "description": "For full information see here:",
-  "source": "@site/docs/blacklisting.mdx",
+  "source": "@site/versioned_docs/version-1.0.0/blacklisting.mdx",
   "sourceDirName": ".",
   "slug": "/blacklist",
-  "permalink": "/docs/next/blacklist",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/blacklisting.mdx",
+  "permalink": "/docs/blacklist",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/blacklisting.mdx",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "blacklisting",
     "title": "Blacklisting apps",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Root detection",
-    "permalink": "/docs/next/rootdetection"
+    "permalink": "/docs/rootdetection"
   },
   "next": {
     "title": "OS Check",
-    "permalink": "/docs/next/oscheck"
+    "permalink": "/docs/oscheck"
   }
 }

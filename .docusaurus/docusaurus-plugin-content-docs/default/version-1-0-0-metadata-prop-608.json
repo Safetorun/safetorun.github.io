@@ -1,11 +1,11 @@
 {
   "pluginId": "default",
-  "version": "current",
-  "label": "Next",
-  "banner": "unreleased",
+  "version": "1.0.0",
+  "label": "1.0.0",
+  "banner": null,
   "badge": true,
-  "className": "docs-version-current",
-  "isLast": false,
+  "className": "docs-version-1.0.0",
+  "isLast": true,
   "docsSidebars": {
     "someSidebar": [
       {
@@ -15,7 +15,7 @@
           {
             "type": "link",
             "label": "Why Safe to Run?",
-            "href": "/docs/next/",
+            "href": "/docs/",
             "docId": "why"
           }
         ],
@@ -29,55 +29,55 @@
           {
             "type": "link",
             "label": "Getting started",
-            "href": "/docs/next/gettingstarted",
+            "href": "/docs/gettingstarted",
             "docId": "checks/gettingstarted"
           },
           {
             "type": "link",
             "label": "Combine checks",
-            "href": "/docs/next/combinechecks",
+            "href": "/docs/combinechecks",
             "docId": "checks/combinechecks"
           },
           {
             "type": "link",
             "label": "Root detection",
-            "href": "/docs/next/rootdetection",
+            "href": "/docs/rootdetection",
             "docId": "rootdetection"
           },
           {
             "type": "link",
             "label": "Blacklisting apps",
-            "href": "/docs/next/blacklist",
+            "href": "/docs/blacklist",
             "docId": "blacklisting"
           },
           {
             "type": "link",
             "label": "OS Check",
-            "href": "/docs/next/oscheck",
+            "href": "/docs/oscheck",
             "docId": "oscheck"
           },
           {
             "type": "link",
             "label": "Emulator check",
-            "href": "/docs/next/emulatorcheck",
+            "href": "/docs/emulatorcheck",
             "docId": "emulatorcheck"
           },
           {
             "type": "link",
             "label": "Debug check",
-            "href": "/docs/next/debugcheck",
+            "href": "/docs/debugcheck",
             "docId": "debugcheck"
           },
           {
             "type": "link",
             "label": "Signature verification",
-            "href": "/docs/next/signature",
+            "href": "/docs/signature",
             "docId": "signatureverification"
           },
           {
             "type": "link",
             "label": "Install origin",
-            "href": "/docs/next/installorigin",
+            "href": "/docs/installorigin",
             "docId": "installorigin"
           }
         ],
@@ -91,25 +91,25 @@
           {
             "type": "link",
             "label": "Getting started",
-            "href": "/docs/next/gettingstarted",
+            "href": "/docs/gettingstarted",
             "docId": "input/gettingstarted"
           },
           {
             "type": "link",
             "label": "URL verification",
-            "href": "/docs/next/verifyurls",
+            "href": "/docs/verifyurls",
             "docId": "input/verifyurls"
           },
           {
             "type": "link",
             "label": "File verification",
-            "href": "/docs/next/filesverification",
+            "href": "/docs/filesverification",
             "docId": "input/files"
           },
           {
             "type": "link",
             "label": "Intent verification",
-            "href": "/docs/next/intentverification",
+            "href": "/docs/intentverification",
             "docId": "input/intentverification"
           }
         ],
@@ -123,13 +123,13 @@
           {
             "type": "link",
             "label": "Reporting or default?",
-            "href": "/docs/next/reportingordefault",
+            "href": "/docs/reportingordefault",
             "docId": "reporting_or_default"
           },
           {
             "type": "link",
             "label": "Safe to run reporting",
-            "href": "/docs/next/safetorunreporting",
+            "href": "/docs/safetorunreporting",
             "docId": "reporting/safetorunreporting"
           }
         ],

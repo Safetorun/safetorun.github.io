@@ -73,7 +73,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/sidebars.js",
+          "sidebarPath": "/Users/danielllewellyn/Developer/Personal/safetorun.github.io/sidebars.js",
           "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/"
         },
         "googleAnalytics": {

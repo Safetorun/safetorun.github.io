@@ -1,15 +1,15 @@
 {
   "unversionedId": "debugcheck",
-  "id": "debugcheck",
+  "id": "version-1.0.0/debugcheck",
   "title": "Debug check",
   "description": "Debug check is the simplest to configure.",
-  "source": "@site/docs/debugcheck.mdx",
+  "source": "@site/versioned_docs/version-1.0.0/debugcheck.mdx",
   "sourceDirName": ".",
   "slug": "/debugcheck",
-  "permalink": "/docs/next/debugcheck",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/debugcheck.mdx",
+  "permalink": "/docs/debugcheck",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/debugcheck.mdx",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "debugcheck",
     "title": "Debug check",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Emulator check",
-    "permalink": "/docs/next/emulatorcheck"
+    "permalink": "/docs/emulatorcheck"
   },
   "next": {
     "title": "Signature verification",
-    "permalink": "/docs/next/signature"
+    "permalink": "/docs/signature"
   }
 }

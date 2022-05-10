@@ -1,15 +1,15 @@
 {
   "unversionedId": "input/files",
-  "id": "input/files",
+  "id": "version-1.0.0/input/files",
   "title": "File verification",
   "description": "Verify files",
-  "source": "@site/docs/input/files.md",
+  "source": "@site/versioned_docs/version-1.0.0/input/files.md",
   "sourceDirName": "input",
   "slug": "/filesverification",
-  "permalink": "/docs/next/filesverification",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/files.md",
+  "permalink": "/docs/filesverification",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/input/files.md",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "files",
     "title": "File verification",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "URL verification",
-    "permalink": "/docs/next/verifyurls"
+    "permalink": "/docs/verifyurls"
   },
   "next": {
     "title": "Intent verification",
-    "permalink": "/docs/next/intentverification"
+    "permalink": "/docs/intentverification"
   }
 }

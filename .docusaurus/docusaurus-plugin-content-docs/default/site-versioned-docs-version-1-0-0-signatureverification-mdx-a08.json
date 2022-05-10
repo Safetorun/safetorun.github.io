@@ -1,15 +1,15 @@
 {
   "unversionedId": "signatureverification",
-  "id": "signatureverification",
+  "id": "version-1.0.0/signatureverification",
   "title": "Signature verification",
   "description": "Configuration",
-  "source": "@site/docs/signatureverification.mdx",
+  "source": "@site/versioned_docs/version-1.0.0/signatureverification.mdx",
   "sourceDirName": ".",
   "slug": "/signature",
-  "permalink": "/docs/next/signature",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/signatureverification.mdx",
+  "permalink": "/docs/signature",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/signatureverification.mdx",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "signatureverification",
     "title": "Signature verification",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Debug check",
-    "permalink": "/docs/next/debugcheck"
+    "permalink": "/docs/debugcheck"
   },
   "next": {
     "title": "Install origin",
-    "permalink": "/docs/next/installorigin"
+    "permalink": "/docs/installorigin"
   }
 }

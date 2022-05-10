@@ -1,15 +1,15 @@
 {
   "unversionedId": "checks/combinechecks",
-  "id": "checks/combinechecks",
+  "id": "version-1.0.0/checks/combinechecks",
   "title": "Combine checks",
   "description": "Safe to run (Default) provides the ability to combine multiple checks together, and also",
-  "source": "@site/docs/checks/combine_checks.md",
+  "source": "@site/versioned_docs/version-1.0.0/checks/combine_checks.md",
   "sourceDirName": "checks",
   "slug": "/combinechecks",
-  "permalink": "/docs/next/combinechecks",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/checks/combine_checks.md",
+  "permalink": "/docs/combinechecks",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/checks/combine_checks.md",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "combinechecks",
     "title": "Combine checks",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Getting started",
-    "permalink": "/docs/next/gettingstarted"
+    "permalink": "/docs/gettingstarted"
   },
   "next": {
     "title": "Root detection",
-    "permalink": "/docs/next/rootdetection"
+    "permalink": "/docs/rootdetection"
   }
 }

@@ -1,15 +1,15 @@
 {
   "unversionedId": "checks/gettingstarted",
-  "id": "checks/gettingstarted",
+  "id": "version-1.0.0/checks/gettingstarted",
   "title": "Getting started",
   "description": "Gradle:",
-  "source": "@site/docs/checks/gettingstarted.mdx",
+  "source": "@site/versioned_docs/version-1.0.0/checks/gettingstarted.mdx",
   "sourceDirName": "checks",
   "slug": "/gettingstarted",
-  "permalink": "/docs/next/gettingstarted",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/checks/gettingstarted.mdx",
+  "permalink": "/docs/gettingstarted",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/checks/gettingstarted.mdx",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "gettingstarted",
     "title": "Getting started",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Why Safe to Run?",
-    "permalink": "/docs/next/"
+    "permalink": "/docs/"
   },
   "next": {
     "title": "Combine checks",
-    "permalink": "/docs/next/combinechecks"
+    "permalink": "/docs/combinechecks"
   }
 }

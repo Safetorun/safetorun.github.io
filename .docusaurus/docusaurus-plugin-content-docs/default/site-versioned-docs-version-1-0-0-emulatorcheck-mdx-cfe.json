@@ -1,15 +1,15 @@
 {
   "unversionedId": "emulatorcheck",
-  "id": "emulatorcheck",
+  "id": "version-1.0.0/emulatorcheck",
   "title": "Emulator check",
   "description": "More information, including the motivation for emulator detection can be found in this article:",
-  "source": "@site/docs/emulatorcheck.mdx",
+  "source": "@site/versioned_docs/version-1.0.0/emulatorcheck.mdx",
   "sourceDirName": ".",
   "slug": "/emulatorcheck",
-  "permalink": "/docs/next/emulatorcheck",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/emulatorcheck.mdx",
+  "permalink": "/docs/emulatorcheck",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/emulatorcheck.mdx",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "emulatorcheck",
     "title": "Emulator check",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "OS Check",
-    "permalink": "/docs/next/oscheck"
+    "permalink": "/docs/oscheck"
   },
   "next": {
     "title": "Debug check",
-    "permalink": "/docs/next/debugcheck"
+    "permalink": "/docs/debugcheck"
   }
 }

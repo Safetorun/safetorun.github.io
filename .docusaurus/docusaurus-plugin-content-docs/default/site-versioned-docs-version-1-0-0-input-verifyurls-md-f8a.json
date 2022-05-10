@@ -1,15 +1,15 @@
 {
   "unversionedId": "input/verifyurls",
-  "id": "input/verifyurls",
+  "id": "version-1.0.0/input/verifyurls",
   "title": "URL verification",
   "description": "Verify URLs",
-  "source": "@site/docs/input/verifyurls.md",
+  "source": "@site/versioned_docs/version-1.0.0/input/verifyurls.md",
   "sourceDirName": "input",
   "slug": "/verifyurls",
-  "permalink": "/docs/next/verifyurls",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/verifyurls.md",
+  "permalink": "/docs/verifyurls",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/input/verifyurls.md",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "verifyurls",
     "title": "URL verification",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Getting started",
-    "permalink": "/docs/next/gettingstarted"
+    "permalink": "/docs/gettingstarted"
   },
   "next": {
     "title": "File verification",
-    "permalink": "/docs/next/filesverification"
+    "permalink": "/docs/filesverification"
   }
 }

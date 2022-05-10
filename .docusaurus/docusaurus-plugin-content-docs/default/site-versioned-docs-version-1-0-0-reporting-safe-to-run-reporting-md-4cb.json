@@ -1,15 +1,15 @@
 {
   "unversionedId": "reporting/safetorunreporting",
-  "id": "reporting/safetorunreporting",
+  "id": "version-1.0.0/reporting/safetorunreporting",
   "title": "Safe to run reporting",
   "description": "Errors and Warns",
-  "source": "@site/docs/reporting/safe_to_run_reporting.md",
+  "source": "@site/versioned_docs/version-1.0.0/reporting/safe_to_run_reporting.md",
   "sourceDirName": "reporting",
   "slug": "/safetorunreporting",
-  "permalink": "/docs/next/safetorunreporting",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/reporting/safe_to_run_reporting.md",
+  "permalink": "/docs/safetorunreporting",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/reporting/safe_to_run_reporting.md",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "safetorunreporting",
     "title": "Safe to run reporting",
@@ -18,6 +18,6 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Reporting or default?",
-    "permalink": "/docs/next/reportingordefault"
+    "permalink": "/docs/reportingordefault"
   }
 }

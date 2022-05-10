@@ -1,15 +1,15 @@
 {
   "unversionedId": "installorigin",
-  "id": "installorigin",
+  "id": "version-1.0.0/installorigin",
   "title": "Install origin",
   "description": "The purpose of this library is to ensure that packages are not installed from anywhere other than the configured",
-  "source": "@site/docs/installorigin.mdx",
+  "source": "@site/versioned_docs/version-1.0.0/installorigin.mdx",
   "sourceDirName": ".",
   "slug": "/installorigin",
-  "permalink": "/docs/next/installorigin",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/installorigin.mdx",
+  "permalink": "/docs/installorigin",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/installorigin.mdx",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "installorigin",
     "title": "Install origin",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Signature verification",
-    "permalink": "/docs/next/signature"
+    "permalink": "/docs/signature"
   },
   "next": {
     "title": "Getting started",
-    "permalink": "/docs/next/gettingstarted"
+    "permalink": "/docs/gettingstarted"
   }
 }

@@ -13,6 +13,115 @@
         {
           "name": "current",
           "label": "Next",
+          "isLast": false,
+          "path": "/docs/next",
+          "mainDocId": "why",
+          "docs": [
+            {
+              "id": "blacklisting",
+              "path": "/docs/next/blacklist",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "checks/combinechecks",
+              "path": "/docs/next/combinechecks",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "checks/gettingstarted",
+              "path": "/docs/next/gettingstarted",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "debugcheck",
+              "path": "/docs/next/debugcheck",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "emulatorcheck",
+              "path": "/docs/next/emulatorcheck",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "input/files",
+              "path": "/docs/next/filesverification",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "input/gettingstarted",
+              "path": "/docs/next/gettingstarted",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "input/intentverification",
+              "path": "/docs/next/intentverification",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "input/verifyurls",
+              "path": "/docs/next/verifyurls",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "installorigin",
+              "path": "/docs/next/installorigin",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "offdevice/configureandrun",
+              "path": "/docs/next/configureandrun"
+            },
+            {
+              "id": "offdevice/offdevicesetup",
+              "path": "/docs/next/offdevicesetup"
+            },
+            {
+              "id": "onoroffdevice",
+              "path": "/docs/next/onoroffdevice"
+            },
+            {
+              "id": "oscheck",
+              "path": "/docs/next/oscheck",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "reporting_or_default",
+              "path": "/docs/next/reportingordefault",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "reporting/safetorunreporting",
+              "path": "/docs/next/safetorunreporting",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "rootdetection",
+              "path": "/docs/next/rootdetection",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "signatureverification",
+              "path": "/docs/next/signature",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "why",
+              "path": "/docs/next/",
+              "sidebar": "someSidebar"
+            }
+          ],
+          "sidebars": {
+            "someSidebar": {
+              "link": {
+                "path": "/docs/next/",
+                "label": "why"
+              }
+            }
+          }
+        },
+        {
+          "name": "1.0.0",
+          "label": "1.0.0",
           "isLast": true,
           "path": "/docs",
           "mainDocId": "why",

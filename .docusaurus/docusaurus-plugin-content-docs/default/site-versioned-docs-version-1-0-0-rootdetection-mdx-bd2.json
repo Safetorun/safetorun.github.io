@@ -1,15 +1,15 @@
 {
   "unversionedId": "rootdetection",
-  "id": "rootdetection",
+  "id": "version-1.0.0/rootdetection",
   "title": "Root detection",
   "description": "Root detection is mostly deferred to RootBeer. The configuration looks like this:",
-  "source": "@site/docs/rootdetection.mdx",
+  "source": "@site/versioned_docs/version-1.0.0/rootdetection.mdx",
   "sourceDirName": ".",
   "slug": "/rootdetection",
-  "permalink": "/docs/next/rootdetection",
-  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/rootdetection.mdx",
+  "permalink": "/docs/rootdetection",
+  "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/rootdetection.mdx",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "frontMatter": {
     "id": "rootdetection",
     "title": "Root detection",
@@ -18,10 +18,10 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Combine checks",
-    "permalink": "/docs/next/combinechecks"
+    "permalink": "/docs/combinechecks"
   },
   "next": {
     "title": "Blacklisting apps",
-    "permalink": "/docs/next/blacklist"
+    "permalink": "/docs/blacklist"
   }
 }
