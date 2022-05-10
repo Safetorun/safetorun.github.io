@@ -17,8 +17,8 @@
   },
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Why Safe to Run?",
-    "permalink": "/docs/"
+    "title": "Intent verification",
+    "permalink": "/docs/intentverification"
   },
   "next": {
     "title": "Combine checks",

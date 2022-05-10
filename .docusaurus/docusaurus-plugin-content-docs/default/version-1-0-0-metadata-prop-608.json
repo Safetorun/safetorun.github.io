@@ -24,6 +24,38 @@
       },
       {
         "type": "category",
+        "label": "Input verification",
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting started",
+            "href": "/docs/inputgettingstarted",
+            "docId": "input/started"
+          },
+          {
+            "type": "link",
+            "label": "URL verification",
+            "href": "/docs/verifyurls",
+            "docId": "input/verifyurls"
+          },
+          {
+            "type": "link",
+            "label": "File verification",
+            "href": "/docs/filesverification",
+            "docId": "input/files"
+          },
+          {
+            "type": "link",
+            "label": "Intent verification",
+            "href": "/docs/intentverification",
+            "docId": "input/intentverification"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "Checks",
         "items": [
           {
@@ -79,38 +111,6 @@
             "label": "Install origin",
             "href": "/docs/installorigin",
             "docId": "installorigin"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Input verification",
-        "items": [
-          {
-            "type": "link",
-            "label": "Getting started",
-            "href": "/docs/gettingstarted",
-            "docId": "input/gettingstarted"
-          },
-          {
-            "type": "link",
-            "label": "URL verification",
-            "href": "/docs/verifyurls",
-            "docId": "input/verifyurls"
-          },
-          {
-            "type": "link",
-            "label": "File verification",
-            "href": "/docs/filesverification",
-            "docId": "input/files"
-          },
-          {
-            "type": "link",
-            "label": "Intent verification",
-            "href": "/docs/intentverification",
-            "docId": "input/intentverification"
           }
         ],
         "collapsed": true,
@@ -175,16 +175,16 @@
       "description": "Verify files",
       "sidebar": "someSidebar"
     },
-    "input/gettingstarted": {
-      "id": "input/gettingstarted",
-      "title": "Getting started",
-      "description": "Gradle:",
-      "sidebar": "someSidebar"
-    },
     "input/intentverification": {
       "id": "input/intentverification",
       "title": "Intent verification",
       "description": "Intent verification is currently still in Beta! Please provide feedback as an",
+      "sidebar": "someSidebar"
+    },
+    "input/started": {
+      "id": "input/started",
+      "title": "Getting started",
+      "description": "Gradle:",
       "sidebar": "someSidebar"
     },
     "input/verifyurls": {

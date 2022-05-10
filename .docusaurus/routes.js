@@ -157,7 +157,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','69c'),
+    component: ComponentCreator('/docs','ce0'),
     routes: [
       {
         path: '/docs/',
@@ -207,8 +207,8 @@ export default [
         sidebar: "someSidebar"
       },
       {
-        path: '/docs/gettingstarted',
-        component: ComponentCreator('/docs/gettingstarted','1e9'),
+        path: '/docs/inputgettingstarted',
+        component: ComponentCreator('/docs/inputgettingstarted','029'),
         exact: true,
         sidebar: "someSidebar"
       },

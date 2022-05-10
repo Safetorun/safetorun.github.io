@@ -1,24 +1,24 @@
 {
-  "unversionedId": "input/gettingstarted",
-  "id": "version-1.0.0/input/gettingstarted",
+  "unversionedId": "input/started",
+  "id": "version-1.0.0/input/started",
   "title": "Getting started",
   "description": "Gradle:",
   "source": "@site/versioned_docs/version-1.0.0/input/gettingstarted.md",
   "sourceDirName": "input",
-  "slug": "/gettingstarted",
-  "permalink": "/docs/gettingstarted",
+  "slug": "/inputgettingstarted",
+  "permalink": "/docs/inputgettingstarted",
   "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/input/gettingstarted.md",
   "tags": [],
   "version": "1.0.0",
   "frontMatter": {
-    "id": "gettingstarted",
+    "id": "started",
     "title": "Getting started",
-    "slug": "/gettingstarted"
+    "slug": "/inputgettingstarted"
   },
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Install origin",
-    "permalink": "/docs/installorigin"
+    "title": "Why Safe to Run?",
+    "permalink": "/docs/"
   },
   "next": {
     "title": "URL verification",

@@ -3,6 +3,13 @@
     "Overview": [
       "why"
     ],
+
+    "Input verification": [
+      "input/started",
+      "input/verifyurls",
+      "input/files",
+      "input/intentverification"
+    ],
     "Checks": [
       "checks/gettingstarted",
       "checks/combinechecks",
@@ -13,12 +20,6 @@
       "debugcheck",
       "signatureverification",
       "installorigin"
-    ],
-    "Input verification": [
-      "input/gettingstarted",
-      "input/verifyurls",
-      "input/files",
-      "input/intentverification"
     ],
     "Reporting": [
       "reporting_or_default",

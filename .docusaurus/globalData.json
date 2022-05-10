@@ -157,13 +157,13 @@
               "sidebar": "someSidebar"
             },
             {
-              "id": "input/gettingstarted",
-              "path": "/docs/gettingstarted",
+              "id": "input/intentverification",
+              "path": "/docs/intentverification",
               "sidebar": "someSidebar"
             },
             {
-              "id": "input/intentverification",
-              "path": "/docs/intentverification",
+              "id": "input/started",
+              "path": "/docs/inputgettingstarted",
               "sidebar": "someSidebar"
             },
             {

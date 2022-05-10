@@ -90,8 +90,8 @@
               },
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Why Safe to Run?",
-                "permalink": "/docs/next/"
+                "title": "Intent verification",
+                "permalink": "/docs/next/intentverification"
               },
               "next": {
                 "title": "Combine checks",
@@ -202,8 +202,8 @@
                 "permalink": "/docs/next/filesverification"
               },
               "next": {
-                "title": "Reporting or default?",
-                "permalink": "/docs/next/reportingordefault"
+                "title": "Getting started",
+                "permalink": "/docs/next/gettingstarted"
               }
             },
             {
@@ -225,8 +225,8 @@
               },
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Install origin",
-                "permalink": "/docs/next/installorigin"
+                "title": "Why Safe to Run?",
+                "permalink": "/docs/next/"
               },
               "next": {
                 "title": "URL verification",
@@ -283,8 +283,8 @@
                 "permalink": "/docs/next/signature"
               },
               "next": {
-                "title": "Getting started",
-                "permalink": "/docs/next/inputgettingstarted"
+                "title": "Reporting or default?",
+                "permalink": "/docs/next/reportingordefault"
               }
             },
             {
@@ -387,8 +387,8 @@
               },
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Intent verification",
-                "permalink": "/docs/next/intentverification"
+                "title": "Install origin",
+                "permalink": "/docs/next/installorigin"
               },
               "next": {
                 "title": "Safe to run reporting",
@@ -492,7 +492,7 @@
               "sidebar": "someSidebar",
               "next": {
                 "title": "Getting started",
-                "permalink": "/docs/next/gettingstarted"
+                "permalink": "/docs/next/inputgettingstarted"
               }
             }
           ],
@@ -505,6 +505,30 @@
                   {
                     "type": "doc",
                     "id": "why"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Input verification",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "input/started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "input/verifyurls"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "input/files"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "input/intentverification"
                   }
                 ],
                 "collapsed": true,
@@ -549,30 +573,6 @@
                   {
                     "type": "doc",
                     "id": "installorigin"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Input verification",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "input/started"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "input/verifyurls"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "input/files"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "input/intentverification"
                   }
                 ],
                 "collapsed": true,
@@ -688,8 +688,8 @@
               },
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Why Safe to Run?",
-                "permalink": "/docs/"
+                "title": "Intent verification",
+                "permalink": "/docs/intentverification"
               },
               "next": {
                 "title": "Combine checks",
@@ -778,33 +778,6 @@
               }
             },
             {
-              "unversionedId": "input/gettingstarted",
-              "id": "version-1.0.0/input/gettingstarted",
-              "title": "Getting started",
-              "description": "Gradle:",
-              "source": "@site/versioned_docs/version-1.0.0/input/gettingstarted.md",
-              "sourceDirName": "input",
-              "slug": "/gettingstarted",
-              "permalink": "/docs/gettingstarted",
-              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/input/gettingstarted.md",
-              "tags": [],
-              "version": "1.0.0",
-              "frontMatter": {
-                "id": "gettingstarted",
-                "title": "Getting started",
-                "slug": "/gettingstarted"
-              },
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "Install origin",
-                "permalink": "/docs/installorigin"
-              },
-              "next": {
-                "title": "URL verification",
-                "permalink": "/docs/verifyurls"
-              }
-            },
-            {
               "unversionedId": "input/intentverification",
               "id": "version-1.0.0/input/intentverification",
               "title": "Intent verification",
@@ -827,8 +800,35 @@
                 "permalink": "/docs/filesverification"
               },
               "next": {
-                "title": "Reporting or default?",
-                "permalink": "/docs/reportingordefault"
+                "title": "Getting started",
+                "permalink": "/docs/gettingstarted"
+              }
+            },
+            {
+              "unversionedId": "input/started",
+              "id": "version-1.0.0/input/started",
+              "title": "Getting started",
+              "description": "Gradle:",
+              "source": "@site/versioned_docs/version-1.0.0/input/gettingstarted.md",
+              "sourceDirName": "input",
+              "slug": "/inputgettingstarted",
+              "permalink": "/docs/inputgettingstarted",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/versioned_docs/version-1.0.0/input/gettingstarted.md",
+              "tags": [],
+              "version": "1.0.0",
+              "frontMatter": {
+                "id": "started",
+                "title": "Getting started",
+                "slug": "/inputgettingstarted"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Why Safe to Run?",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "URL verification",
+                "permalink": "/docs/verifyurls"
               }
             },
             {
@@ -851,7 +851,7 @@
               "sidebar": "someSidebar",
               "previous": {
                 "title": "Getting started",
-                "permalink": "/docs/gettingstarted"
+                "permalink": "/docs/inputgettingstarted"
               },
               "next": {
                 "title": "File verification",
@@ -881,8 +881,8 @@
                 "permalink": "/docs/signature"
               },
               "next": {
-                "title": "Getting started",
-                "permalink": "/docs/gettingstarted"
+                "title": "Reporting or default?",
+                "permalink": "/docs/reportingordefault"
               }
             },
             {
@@ -985,8 +985,8 @@
               },
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Intent verification",
-                "permalink": "/docs/intentverification"
+                "title": "Install origin",
+                "permalink": "/docs/installorigin"
               },
               "next": {
                 "title": "Safe to run reporting",
@@ -1090,7 +1090,7 @@
               "sidebar": "someSidebar",
               "next": {
                 "title": "Getting started",
-                "permalink": "/docs/gettingstarted"
+                "permalink": "/docs/inputgettingstarted"
               }
             }
           ],
@@ -1103,6 +1103,30 @@
                   {
                     "type": "doc",
                     "id": "why"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Input verification",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "input/started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "input/verifyurls"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "input/files"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "input/intentverification"
                   }
                 ],
                 "collapsed": true,
@@ -1147,30 +1171,6 @@
                   {
                     "type": "doc",
                     "id": "installorigin"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
-              },
-              {
-                "type": "category",
-                "label": "Input verification",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "input/gettingstarted"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "input/verifyurls"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "input/files"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "input/intentverification"
                   }
                 ],
                 "collapsed": true,

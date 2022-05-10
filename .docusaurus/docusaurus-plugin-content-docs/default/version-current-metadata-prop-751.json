@@ -24,6 +24,38 @@
       },
       {
         "type": "category",
+        "label": "Input verification",
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting started",
+            "href": "/docs/next/inputgettingstarted",
+            "docId": "input/started"
+          },
+          {
+            "type": "link",
+            "label": "URL verification",
+            "href": "/docs/next/verifyurls",
+            "docId": "input/verifyurls"
+          },
+          {
+            "type": "link",
+            "label": "File verification",
+            "href": "/docs/next/filesverification",
+            "docId": "input/files"
+          },
+          {
+            "type": "link",
+            "label": "Intent verification",
+            "href": "/docs/next/intentverification",
+            "docId": "input/intentverification"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "Checks",
         "items": [
           {
@@ -79,38 +111,6 @@
             "label": "Install origin",
             "href": "/docs/next/installorigin",
             "docId": "installorigin"
-          }
-        ],
-        "collapsed": true,
-        "collapsible": true
-      },
-      {
-        "type": "category",
-        "label": "Input verification",
-        "items": [
-          {
-            "type": "link",
-            "label": "Getting started",
-            "href": "/docs/next/inputgettingstarted",
-            "docId": "input/started"
-          },
-          {
-            "type": "link",
-            "label": "URL verification",
-            "href": "/docs/next/verifyurls",
-            "docId": "input/verifyurls"
-          },
-          {
-            "type": "link",
-            "label": "File verification",
-            "href": "/docs/next/filesverification",
-            "docId": "input/files"
-          },
-          {
-            "type": "link",
-            "label": "Intent verification",
-            "href": "/docs/next/intentverification",
-            "docId": "input/intentverification"
           }
         ],
         "collapsed": true,

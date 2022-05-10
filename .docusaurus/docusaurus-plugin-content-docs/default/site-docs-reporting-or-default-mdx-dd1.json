@@ -17,8 +17,8 @@
   },
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Intent verification",
-    "permalink": "/docs/next/intentverification"
+    "title": "Install origin",
+    "permalink": "/docs/next/installorigin"
   },
   "next": {
     "title": "Safe to run reporting",
