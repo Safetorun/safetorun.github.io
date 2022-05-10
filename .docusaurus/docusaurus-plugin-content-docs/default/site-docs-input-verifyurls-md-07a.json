@@ -18,7 +18,7 @@
   "sidebar": "someSidebar",
   "previous": {
     "title": "Getting started",
-    "permalink": "/docs/next/gettingstarted"
+    "permalink": "/docs/next/inputgettingstarted"
   },
   "next": {
     "title": "File verification",

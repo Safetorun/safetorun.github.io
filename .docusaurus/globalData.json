@@ -48,13 +48,13 @@
               "sidebar": "someSidebar"
             },
             {
-              "id": "input/gettingstarted",
-              "path": "/docs/next/gettingstarted",
+              "id": "input/intentverification",
+              "path": "/docs/next/intentverification",
               "sidebar": "someSidebar"
             },
             {
-              "id": "input/intentverification",
-              "path": "/docs/next/intentverification",
+              "id": "input/started",
+              "path": "/docs/next/inputgettingstarted",
               "sidebar": "someSidebar"
             },
             {

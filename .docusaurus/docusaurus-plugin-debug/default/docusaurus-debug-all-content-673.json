@@ -180,33 +180,6 @@
               }
             },
             {
-              "unversionedId": "input/gettingstarted",
-              "id": "input/gettingstarted",
-              "title": "Getting started",
-              "description": "Gradle:",
-              "source": "@site/docs/input/gettingstarted.md",
-              "sourceDirName": "input",
-              "slug": "/gettingstarted",
-              "permalink": "/docs/next/gettingstarted",
-              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/gettingstarted.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "id": "gettingstarted",
-                "title": "Getting started",
-                "slug": "/gettingstarted"
-              },
-              "sidebar": "someSidebar",
-              "previous": {
-                "title": "Install origin",
-                "permalink": "/docs/next/installorigin"
-              },
-              "next": {
-                "title": "URL verification",
-                "permalink": "/docs/next/verifyurls"
-              }
-            },
-            {
               "unversionedId": "input/intentverification",
               "id": "input/intentverification",
               "title": "Intent verification",
@@ -234,6 +207,33 @@
               }
             },
             {
+              "unversionedId": "input/started",
+              "id": "input/started",
+              "title": "Getting started",
+              "description": "Gradle:",
+              "source": "@site/docs/input/started.md",
+              "sourceDirName": "input",
+              "slug": "/inputgettingstarted",
+              "permalink": "/docs/next/inputgettingstarted",
+              "editUrl": "https://github.com/safetorun/safe_to_run_docs/edit/master/docs/input/started.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "started",
+                "title": "Getting started",
+                "slug": "/inputgettingstarted"
+              },
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Install origin",
+                "permalink": "/docs/next/installorigin"
+              },
+              "next": {
+                "title": "URL verification",
+                "permalink": "/docs/next/verifyurls"
+              }
+            },
+            {
               "unversionedId": "input/verifyurls",
               "id": "input/verifyurls",
               "title": "URL verification",
@@ -253,7 +253,7 @@
               "sidebar": "someSidebar",
               "previous": {
                 "title": "Getting started",
-                "permalink": "/docs/next/gettingstarted"
+                "permalink": "/docs/next/inputgettingstarted"
               },
               "next": {
                 "title": "File verification",
@@ -284,7 +284,7 @@
               },
               "next": {
                 "title": "Getting started",
-                "permalink": "/docs/next/gettingstarted"
+                "permalink": "/docs/next/inputgettingstarted"
               }
             },
             {
@@ -560,7 +560,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "input/gettingstarted"
+                    "id": "input/started"
                   },
                   {
                     "type": "doc",

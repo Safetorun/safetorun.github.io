@@ -12,7 +12,7 @@ import { Box, CardMedia, Grid } from "@material-ui/core";
 import { createTheme } from '@material-ui/core/styles'
 import Link from '@docusaurus/Link';
 import Button from '@material-ui/core/Button'
-import Microlink from '@microlink/react'
+// import Microlink from '@microlink/react'
 
 
 
@@ -122,20 +122,20 @@ const Features = () => (
     )
 );
 
-const Articles = () => (
-    <section>
-        <Box sx={{ m: 4 }}>
-            <h2>How safe to run can make your app more secure</h2>
-            <Grid container>
-                {mediumArticles.map((link) => (<Grid item xs={4}>
-                    <Box sx={{ p: 2 }}>
-                        <Microlink size="large" url={link} />
-                    </Box>
-                </Grid>))}
-            </Grid>
-        </Box>
-    </section>
-);
+// const Articles = () => (
+//     <section>
+//         <Box sx={{ m: 4 }}>
+//             <h2>How safe to run can make your app more secure</h2>
+//             <Grid container>
+//                 {mediumArticles.map((link) => (<Grid item xs={4}>
+//                     <Box sx={{ p: 2 }}>
+//                         <Microlink size="large" url={link} />
+//                     </Box>
+//                 </Grid>))}
+//             </Grid>
+//         </Box>
+//     </section>
+// );
 
 export default function Home() {
     const context = useDocusaurusContext();
@@ -149,7 +149,7 @@ export default function Home() {
                 <div className={styles.hero}>
                     <HeaderImage />
                     <Features />
-                    <Articles />
+                    {/* <Articles /> */}
                 </div>
             </Layout>
         </ThemeProvider>

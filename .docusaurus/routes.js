@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/docs/next',
-    component: ComponentCreator('/docs/next','03b'),
+    component: ComponentCreator('/docs/next','f32'),
     routes: [
       {
         path: '/docs/next/',
@@ -90,8 +90,8 @@ export default [
         sidebar: "someSidebar"
       },
       {
-        path: '/docs/next/gettingstarted',
-        component: ComponentCreator('/docs/next/gettingstarted','9bc'),
+        path: '/docs/next/inputgettingstarted',
+        component: ComponentCreator('/docs/next/inputgettingstarted','dcc'),
         exact: true,
         sidebar: "someSidebar"
       },

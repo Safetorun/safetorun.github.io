@@ -91,8 +91,8 @@
           {
             "type": "link",
             "label": "Getting started",
-            "href": "/docs/next/gettingstarted",
-            "docId": "input/gettingstarted"
+            "href": "/docs/next/inputgettingstarted",
+            "docId": "input/started"
           },
           {
             "type": "link",
@@ -175,16 +175,16 @@
       "description": "Verify files",
       "sidebar": "someSidebar"
     },
-    "input/gettingstarted": {
-      "id": "input/gettingstarted",
-      "title": "Getting started",
-      "description": "Gradle:",
-      "sidebar": "someSidebar"
-    },
     "input/intentverification": {
       "id": "input/intentverification",
       "title": "Intent verification",
       "description": "Intent verification is currently still in Beta! Please provide feedback as an",
+      "sidebar": "someSidebar"
+    },
+    "input/started": {
+      "id": "input/started",
+      "title": "Getting started",
+      "description": "Gradle:",
       "sidebar": "someSidebar"
     },
     "input/verifyurls": {

@@ -1,7 +1,7 @@
 ---
-id: gettingstarted 
+id: started 
 title: Getting started
-slug: /gettingstarted
+slug: /inputgettingstarted
 ---
 
 Gradle:
