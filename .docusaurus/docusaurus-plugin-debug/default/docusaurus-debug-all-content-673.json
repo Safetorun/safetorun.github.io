@@ -13,9 +13,9 @@
           "versionBadge": true,
           "versionClassName": "docs-version-current",
           "isLast": false,
-          "sidebarFilePath": "/Users/danielllewellyn/Developer/Personal/safetorun.github.io/sidebars.js",
-          "contentPath": "/Users/danielllewellyn/Developer/Personal/safetorun.github.io/docs",
-          "contentPathLocalized": "/Users/danielllewellyn/Developer/Personal/safetorun.github.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/sidebars.js",
+          "contentPath": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/docs",
+          "contentPathLocalized": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "blacklisting",
@@ -225,7 +225,7 @@
               },
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Why Safe to Run?",
+                "title": "What is Safe to Run?",
                 "permalink": "/docs/next/"
               },
               "next": {
@@ -475,7 +475,7 @@
             {
               "unversionedId": "why",
               "id": "why",
-              "title": "Why Safe to Run?",
+              "title": "What is Safe to Run?",
               "description": "No solution to tamper detection is foolproof, if someone is able to decompile your application and",
               "source": "@site/docs/why.md",
               "sourceDirName": ".",
@@ -486,7 +486,7 @@
               "version": "current",
               "frontMatter": {
                 "id": "why",
-                "title": "Why Safe to Run?",
+                "title": "What is Safe to Run?",
                 "slug": "/"
               },
               "sidebar": "someSidebar",
@@ -512,7 +512,7 @@
               },
               {
                 "type": "category",
-                "label": "Input verification",
+                "label": "Verification",
                 "items": [
                   {
                     "type": "doc",
@@ -536,7 +536,7 @@
               },
               {
                 "type": "category",
-                "label": "Checks",
+                "label": "Resilience",
                 "items": [
                   {
                     "type": "doc",
@@ -611,9 +611,9 @@
           "versionClassName": "docs-version-1.0.0",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/danielllewellyn/Developer/Personal/safetorun.github.io/versioned_sidebars/version-1.0.0-sidebars.json",
-          "contentPath": "/Users/danielllewellyn/Developer/Personal/safetorun.github.io/versioned_docs/version-1.0.0",
-          "contentPathLocalized": "/Users/danielllewellyn/Developer/Personal/safetorun.github.io/i18n/en/docusaurus-plugin-content-docs/version-1.0.0",
+          "sidebarFilePath": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/versioned_sidebars/version-1.0.0-sidebars.json",
+          "contentPath": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/versioned_docs/version-1.0.0",
+          "contentPathLocalized": "/Users/dllewellyn/Developer/safe_to_run_docs/safetorun.github.io/i18n/en/docusaurus-plugin-content-docs/version-1.0.0",
           "docs": [
             {
               "unversionedId": "blacklisting",

@@ -5,42 +5,42 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug','df2'),
+    component: ComponentCreator('/__docusaurus/debug','6fe'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config','e4f'),
+    component: ComponentCreator('/__docusaurus/debug/config','18f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content','939'),
+    component: ComponentCreator('/__docusaurus/debug/content','69f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData','d98'),
+    component: ComponentCreator('/__docusaurus/debug/globalData','952'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata','532'),
+    component: ComponentCreator('/__docusaurus/debug/metadata','27f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry','5b0'),
+    component: ComponentCreator('/__docusaurus/debug/registry','8d6'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes','234'),
+    component: ComponentCreator('/__docusaurus/debug/routes','66f'),
     exact: true
   },
   {
     path: '/docs/next',
-    component: ComponentCreator('/docs/next','f32'),
+    component: ComponentCreator('/docs/next','0fd'),
     routes: [
       {
         path: '/docs/next/',
@@ -157,7 +157,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','ce0'),
+    component: ComponentCreator('/docs','3aa'),
     routes: [
       {
         path: '/docs/',
@@ -274,7 +274,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','b57'),
+    component: ComponentCreator('/','25d'),
     exact: true
   },
   {

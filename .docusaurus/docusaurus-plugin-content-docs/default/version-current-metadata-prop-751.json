@@ -14,7 +14,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Why Safe to Run?",
+            "label": "What is Safe to Run?",
             "href": "/docs/next/",
             "docId": "why"
           }
@@ -24,7 +24,7 @@
       },
       {
         "type": "category",
-        "label": "Input verification",
+        "label": "Verification",
         "items": [
           {
             "type": "link",
@@ -56,7 +56,7 @@
       },
       {
         "type": "category",
-        "label": "Checks",
+        "label": "Resilience",
         "items": [
           {
             "type": "link",
@@ -246,7 +246,7 @@
     },
     "why": {
       "id": "why",
-      "title": "Why Safe to Run?",
+      "title": "What is Safe to Run?",
       "description": "No solution to tamper detection is foolproof, if someone is able to decompile your application and",
       "sidebar": "someSidebar"
     }

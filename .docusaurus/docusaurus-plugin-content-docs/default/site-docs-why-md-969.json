@@ -1,7 +1,7 @@
 {
   "unversionedId": "why",
   "id": "why",
-  "title": "Why Safe to Run?",
+  "title": "What is Safe to Run?",
   "description": "No solution to tamper detection is foolproof, if someone is able to decompile your application and",
   "source": "@site/docs/why.md",
   "sourceDirName": ".",
@@ -12,7 +12,7 @@
   "version": "current",
   "frontMatter": {
     "id": "why",
-    "title": "Why Safe to Run?",
+    "title": "What is Safe to Run?",
     "slug": "/"
   },
   "sidebar": "someSidebar",

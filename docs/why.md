@@ -1,6 +1,6 @@
 ---
 id: why 
-title: Why Safe to Run? 
+title: What is Safe to Run? 
 slug: /
 ---
 :::caution
@@ -31,11 +31,12 @@ Input verification is intended to ensure that URLs are safe to load into webview
 calls or that intents coming from external sources match some predefined conditions. Check the
 documentation under 'input verification' to get started
 
-## Checks
+## Resilience
 
-Safe to run consists of a number of 'checks' which are detailed in the documentation. The purpose of
+Safe to run consists of a number of 'device checks' which are detailed in the documentation. The purpose of
 these checks is to ensure that the app is 'safe to run' i.e. it meets the pre-conditions you have
-set.
+set. The goal is to aid developers with hardening their app to the standards from the Mobile AppSec Verification
+Standard (MASVS) resilience requirements (https://mobile-security.gitbook.io/masvs/security-requirements/0x15-v8-resiliency_against_reverse_engineering_requirements)[More info here]
 
 Following are a list of things that Safe to run can help protect against and the checks that can
 help with them
