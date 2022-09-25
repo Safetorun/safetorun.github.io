@@ -79,6 +79,22 @@ These allowed types will only allow the correct types to be used as parameters:
 } == false
 ```
 
+You can also add extra verification steps for those parameters if they are URLs, e.g.:
+
+```kotlin
+// https://safetorun.com?proceed_to=https://attacker.site - fails
+// https://safetorun.com?proceed_to=https://safetorun.com - passes
+urlToVerify.urlVerification {
+    "safetorun.com".allowHost()
+    allowParameter {
+        parameterName = "proceed_to"
+        allowedType = AllowedType.Url {
+            "safetorun.com".allowHost()
+        }
+    }
+}
+```
+
 You can allow very specific URLs if you prefer:
 
 ```kotlin
