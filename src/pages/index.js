@@ -43,7 +43,7 @@ const HeaderImage = () => (
                 </Grid>
                 <Grid xs={1}></Grid>
             </Grid>
-            <Link to={useBaseUrl('docs/')}>
+            <Link to={"https://safetorun.gitbook.io/safe-to-run/"}>
                 <Button sx={{ p: 4 }} color="primary" variant="contained">Get started</Button>
             </Link>
         </div>
