@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/cruip/open-react-template.git"
   },
-  "homepage": "https://safetorun.github.io/safetorun-landing-age",
+  "homepage": "https://safetorun.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
