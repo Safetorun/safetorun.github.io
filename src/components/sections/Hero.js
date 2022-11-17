@@ -69,10 +69,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://github.com/safetorun/safe_to_run">
+                    <Button tag="a" color="primary" wideMobile href="https://safetorun.gitbook.io/safe-to-run/">
                     Get started
                     </Button>
-                    <Button tag="a" color="dark" wideMobile href="https://safetorun.gitbook.io/safe-to-run/">
+                    <Button tag="a" color="dark" wideMobile href="https://github.com/safetorun/safe_to_run">
                     View on Github
                     </Button>
                 </ButtonGroup>
