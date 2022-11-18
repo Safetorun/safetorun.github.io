@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import ButtonGroup from '../elements/ButtonGroup';
@@ -26,17 +26,17 @@ const Hero = ({
   ...props
 }) => {
 
-  const [videoModalActive, setVideomodalactive] = useState(false);
+//  const [videoModalActive, setVideomodalactive] = useState(false);
 
-  const openModal = (e) => {
-    e.preventDefault();
-    setVideomodalactive(true);
-  }
-
-  const closeModal = (e) => {
-    e.preventDefault();
-    setVideomodalactive(false);
-  }
+//  const openModal = (e) => {
+//    e.preventDefault();
+//    setVideomodalactive(true);
+//  }
+//
+//  const closeModal = (e) => {
+//    e.preventDefault();
+//    setVideomodalactive(false);
+//  }
 
     const redirectUrl = (url, eventName) => {
       ReactGA.event({
