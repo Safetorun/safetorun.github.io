@@ -39,6 +39,7 @@ const Hero = ({
 //  }
 
     const redirectUrl = (url, eventName) => {
+        console.log(`Sending event ${eventName}`)
       ReactGA.event({
           category: 'Links',
           action: eventName,
