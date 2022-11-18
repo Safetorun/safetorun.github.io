@@ -3,8 +3,9 @@ import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import ButtonGroup from '../elements/ButtonGroup';
 import Button from '../elements/Button';
-import Image from '../elements/Image';
-import Modal from '../elements/Modal';
+//import Image from '../elements/Image';
+//import Modal from '../elements/Modal';
+import ReactGA from 'react-ga';
 
 const propTypes = {
   ...SectionProps.types
@@ -35,7 +36,18 @@ const Hero = ({
   const closeModal = (e) => {
     e.preventDefault();
     setVideomodalactive(false);
-  }   
+  }
+
+    const redirectUrl = (url, eventName) => {
+      ReactGA.event({
+          category: 'Links',
+          action: eventName,
+          label: eventName,
+          value: 1
+      });
+
+      window.location.href = url;
+  }
 
   const outerClasses = classNames(
     'hero section center-content',
@@ -69,37 +81,38 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                    <Button tag="a" color="primary" wideMobile href="https://safetorun.gitbook.io/safe-to-run/">
+                    <Button tag="button" color="primary" wideMobile onClick={() => redirectUrl("https://safetorun.gitbook.io/safe-to-run/", "get_started_click")}>
                     Get started
                     </Button>
-                    <Button tag="a" color="dark" wideMobile href="https://github.com/safetorun/safe_to_run">
+                    <Button tag="button" color="dark" wideMobile onClick={() => redirectUrl("https://github.com/safetorun/safe_to_run", "view_on_github_click")}>
                     View on Github
                     </Button>
                 </ButtonGroup>
               </div>
             </div>
           </div>
-          <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
+            {/**<div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/174002812"
-              href="#0"
-              aria-controls="video-modal"
-              onClick={openModal}
+            data-video="https://player.vimeo.com/video/174002812"
+            href="#0"
+            aria-controls="video-modal"
+            onClick={openModal}
             >
-              <Image
-                className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
-                alt="Hero"
-                width={896}
-                height={504} />
+            <Image
+            className="has-shadow"
+            src={require('./../../assets/images/video-placeholder.jpg')}
+            alt="Hero"
+            width={896}
+            height={504} />
             </a>
-          </div>
-          <Modal
+            </div>
+            <Modal
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
             video="https://player.vimeo.com/video/174002812"
             videoTag="iframe" />
+            */}
         </div>
       </div>
     </section>
