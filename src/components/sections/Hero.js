@@ -5,7 +5,7 @@ import ButtonGroup from '../elements/ButtonGroup';
 import Button from '../elements/Button';
 //import Image from '../elements/Image';
 //import Modal from '../elements/Modal';
-import ReactGA from 'react-ga';
+import ReactGA from "react-ga4";
 
 const propTypes = {
   ...SectionProps.types
