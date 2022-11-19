@@ -93,9 +93,6 @@ const Hero = ({
                                 </ButtonGroup>
                             </div>
                             <div className="reveal-from-bottom" data-reveal-delay="900">
-                                <p className="m-0 mt-32 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                                Looking for help securing your app?
-                                </p>
                                 <ButtonGroup>
                                     <Button tag="button" color="light" wideMobile
                                             onClick={() => redirectUrl("https://join.slack.com/t/safetorun/shared_invite/zt-1kfcp4cw0-Cr_BxI5AG~LOEpnM39NIhw", "slack_signup_link")}>
