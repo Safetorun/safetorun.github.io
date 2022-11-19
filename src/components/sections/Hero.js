@@ -78,8 +78,7 @@ const Hero = ({
                         </h1>
                         <div className="container-xs">
                             <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                                <span className="text-color-primary">Safe to run</span> is an Android library designed
-                                to secure your applications
+                                Simple application security with <span className="text-color-primary">Safe to run</span>
                             </p>
                             <div className="reveal-from-bottom" data-reveal-delay="600">
                                 <ButtonGroup>
