@@ -114,6 +114,9 @@ const Header = ({
                     <li>
                         <a href="https://docs.safetorun.com/" onClick={closeMenu}>Documentation</a>
                     </li>
+                      <li>
+                          <a href="https://blog.safetorun.com/" onClick={closeMenu}>Blog</a>
+                      </li>
                   </ul>
                   {!hideSignin &&
                     <ul
