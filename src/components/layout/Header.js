@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                        <a href="https://safetorun.gitbook.io/safe-to-run" onClick={closeMenu}>Documentation</a>
+                        <a href="https://docs.safetorun.com/" onClick={closeMenu}>Documentation</a>
                     </li>
                   </ul>
                   {!hideSignin &&

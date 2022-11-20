@@ -83,7 +83,7 @@ const Hero = ({
                             <div className="reveal-from-bottom" data-reveal-delay="600">
                                 <ButtonGroup>
                                     <Button tag="button" color="primary" wideMobile
-                                            onClick={() => redirectUrl("https://safetorun.gitbook.io/safe-to-run/", "get_started_click")}>
+                                        onClick={() => redirectUrl("https://docs.safetorun.com/", "get_started_click")}>
                                         Get started
                                     </Button>
                                     <Button tag="button" color="dark" wideMobile
