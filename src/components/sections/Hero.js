@@ -95,7 +95,7 @@ const Hero = ({
                             <div className="reveal-from-bottom" data-reveal-delay="900">
                                 <ButtonGroup>
                                     <Button tag="button" color="light" wideMobile
-                                        onClick={() => redirectUrl("https://safetorun.github.io/?utm_source=portal&utm_medium=home&utm_content=button", "slack_signup_link")}>
+                                        onClick={() => redirectUrl("https://safetorun.github.io/#/slack?utm_source=portal&utm_medium=home&utm_content=button", "slack_signup_link")}>
                                         Join us on slack
                                     </Button>
                                 </ButtonGroup>
