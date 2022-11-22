@@ -3,6 +3,7 @@ import { useLocation, Switch } from 'react-router-dom';
 import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga4';
+import SlackRedirect from './SlackRedirect';
 
 // Layouts
 import LayoutDefault from './layouts/LayoutDefault';
@@ -37,6 +38,7 @@ const App = () => {
       children={() => (
         <Switch>
           <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
+            <AppRoute path="/slack" component={SlackRedirect} />
         </Switch>
       )} />
   );
