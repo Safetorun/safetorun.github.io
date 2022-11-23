@@ -11,6 +11,11 @@ import './assets/scss/style.scss';
 
 const history = createBrowserHistory();
 
+history.listen((location) => {
+    window.ga('set', 'page', location.pathname + location.search);
+    window.ga('send', 'pageview');
+});
+
 ReactDOM.render(
         <HashRouter history={history}>
     <App />
