@@ -12,7 +12,7 @@ const SlackRedirect = () => {
         });
 
 
-        window.location.href = "https://join.slack.com/t/safetorun/shared_invite/zt-1m07o6x2s-2G5_ZMECUzkOmXjOzm0RnA" ;
+        window.location.href = "https://join.slack.com/t/safetorun/shared_invite/zt-1rexrukp1-o_xAV3yOzbSZ4sMhT2Bz4Q" ;
         }, []);
 
     return <></>
