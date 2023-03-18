@@ -17,5 +17,8 @@ jobs:
       uses: Reedyuk/NPM-Version@1.1.1
       with:
         version: 7.10.0
+    - name: Install dependencies
+      - run: npm install
+      - run: npm run build
     - name: Deploy react app to github pages
       uses: bitovi/github-actions-react-to-ghp@v1.2.0
