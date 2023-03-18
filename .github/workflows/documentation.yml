@@ -26,6 +26,5 @@ jobs:
     - name: Install dependencies
       run: npm install && npm run build
     - name: Deploy react app to github pages
-      uses: bitovi/github-actions-react-to-ghp@v1.2.0
-      with:
-        path: build
+      uses: tanwanimohit/deploy-react-to-ghpages@v1.0.1
+
