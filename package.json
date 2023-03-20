@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/cruip/open-react-template.git"
   },
-  "homepage": "https://safetorun.github.io",
+  "homepage": "https://safetorun.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
