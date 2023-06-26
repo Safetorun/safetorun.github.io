@@ -98,6 +98,10 @@ const Hero = ({
                                         onClick={() => redirectUrl("https://safetorun.github.io/#/slack?utm_source=portal&utm_medium=home&utm_content=button", "slack_signup_link")}>
                                         Join us on slack
                                     </Button>
+                                    <Button tag="button" color="primary" wideMobile
+                                            onClick={() => redirectUrl("https://app.safetorun.com?utm_source=landing_page&utm_medium=get_started_button&utm_campaign=default", "slack_signup_link")}>
+                                        Pro
+                                    </Button>
                                 </ButtonGroup>
                             </div>
                         </div>
