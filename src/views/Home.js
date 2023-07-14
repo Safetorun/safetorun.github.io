@@ -6,9 +6,10 @@ import FeaturesSplit from '../components/sections/FeaturesSplit';
 //import Testimonial from '../components/sections/Testimonial';
 import Cta from '../components/sections/Cta';
 import {Helmet} from "react-helmet";
-import * as featureIcon1 from "../assets/images/feature-tile-icon-01.svg";
-import * as featureIcon2 from "../assets/images/feature-tile-icon-02.svg";
-import * as featureIcon3 from "../assets/images/feature-tile-icon-03.svg";
+import {sectionHeader1, tilesData} from "./safetorun_features";
+import {sectionHeader2, tilesData2} from "./safetorun_plus_features";
+import Button from "../components/elements/Button";
+import {redirectUrl} from "../utils/RedirectUrl";
 
 const SEO = () => {
     return (<Helmet>
@@ -22,40 +23,20 @@ const SEO = () => {
 
 const Home = () => {
 
-    const sectionHeader1 = {
-        title: 'Make security simple',
-        paragraph: 'Safe to run provides developers with a simple security as code interface to protect Android applications'
-    };
-
-    const tilesData = [
-        {
-            "headerText": "Protection against attackers",
-            "featureIcon": featureIcon1,
-            "delay": "0",
-            "content": <>Safe to run <span className="text-color-primary">verify</span> protects your app against
-                attacker
-                controlled input</>
-        },
-        {
-            "headerText": "Resilience to vulnerabilities",
-            "featureIcon": featureIcon2,
-            "delay": "200",
-            "content": <> Protect your app from insecure devices with Safe to run <span
-                className="text-color-primary">resilience</span></>
-        },
-        {
-            "headerText": "Slow down reverse engineers",
-            "featureIcon": featureIcon3,
-            "delay": "400",
-            "content": <>Add an extra layer of complexity for reverse engineers with Safe to Run <span
-                className="text-color-primary">resilience</span></>
-        }
-    ]
 
     return (<>
             <SEO/>
             <Hero className="illustration-section-01"/>
             <FeaturesTiles sectionHeader={sectionHeader1} tilesData={tilesData}/>
+            <FeaturesTiles sectionHeader={sectionHeader2} tilesData={tilesData2}/>
+            {/*<section>*/}
+            {/*    <div className="illustration-section-02">*/}
+            {/*        <Button tag="button" color="primary" wideMobile*/}
+            {/*                onClick={() => redirectUrl("https://app.safetorun.com?utm_source=landing_page&utm_medium=get_started_button&utm_campaign=default", "click_app_redirect")}>*/}
+            {/*            Plus*/}
+            {/*        </Button>*/}
+            {/*    </div>*/}
+            {/*</section>*/}
             <FeaturesSplit invertMobile topDivider imageFill className="illustration-section-02"/>
             {/**
              <Testimonial topDivider />

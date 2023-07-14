@@ -2,10 +2,6 @@ import React from 'react';
 import classNames from 'classnames';
 import {SectionTilesProps} from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
-
-import * as featureIcon1 from '../../assets/images/feature-tile-icon-01.svg'
-import * as featureIcon2 from '../../assets/images/feature-tile-icon-02.svg'
-import * as featureIcon3 from '../../assets/images/feature-tile-icon-03.svg'
 import {SingleTile} from "./SingleTile";
 
 const propTypes = {
