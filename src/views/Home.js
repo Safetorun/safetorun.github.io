@@ -8,8 +8,6 @@ import Cta from '../components/sections/Cta';
 import {Helmet} from "react-helmet";
 import {sectionHeader1, tilesData} from "./safetorun_features";
 import {sectionHeader2, tilesData2} from "./safetorun_plus_features";
-import Button from "../components/elements/Button";
-import {redirectUrl} from "../utils/RedirectUrl";
 
 const SEO = () => {
     return (<Helmet>
