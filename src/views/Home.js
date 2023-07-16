@@ -15,7 +15,7 @@ const SEO = () => {
     return (<Helmet>
         <title>Safe to run - Android security for developers</title>
         <meta name="description"
-              content="Safe to run provides an API for security as code to make Android application security simple"/>
+              content="Unlock the full potential of Android application security with Safe to Run's intuitive API for security as code. Simplify your security processes and fortify your Android apps with ease. Experience the peace of mind that comes with robust protection against vulnerabilities."/>
         <meta name="keywords"
               content="android security,security as code,security,android,devsecops,mobile,mobile security,"/>
     </Helmet>)
@@ -30,7 +30,8 @@ const Home = () => {
             <FeaturesTiles sectionHeader={sectionHeader1} tilesData={tilesData}/>
             <FeaturesTiles sectionHeader={sectionHeader2} tilesData={tilesData2}/>
             <section>
-                <div className="illustration-section-02" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                <div className="illustration-section-02"
+                     style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
                     <Button tag="button" color="primary" wideMobile
                             onClick={() => redirectUrl("https://app.safetorun.com?utm_source=landing_page&utm_medium=after_spiel_button&utm_campaign=default", "click_app_redirect")}>
                         Get started with Plus (It's free)
